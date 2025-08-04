@@ -1,0 +1,1501 @@
+Product ID,Product Name,Category,Price,Units Sold,Total Sales,Rating,Review Sentiment,Market,Date
+B0001,Aromatherapy Eucalyptus,Lotion,6.25,73,456.25,4.9,Positive,US,14-01-2024
+B0002,Dark Kiss,Shower Gel,10.97,146,1601.62,3.2,Positive,Germany,07-06-2024
+B0003,Crisp Morning Air,Hand Soap,14.82,66,978.12,4.5,Neutral,Australia,09-03-2024
+B0004,Mahogany Teakwood,Candle,24.64,98,2414.72,4.3,Neutral,Germany,14-03-2024
+B0005,Warm Vanilla Sugar,Lotion,9.63,189,1820.07,4.2,Neutral,Canada,25-06-2024
+B0006,Champagne Toast,Candle,22.04,52,1146.08,3.4,Neutral,US,06-02-2024
+B0007,Crisp Morning Air,Hand Soap,13.35,55,734.25,4.9,Neutral,Germany,13-02-2024
+B0008,Aromatherapy Eucalyptus,Lotion,13.8,131,1807.8,4.2,Positive,Australia,04-03-2024
+B0009,Warm Vanilla Sugar,Lotion,25.47,155,3947.85,4.4,Positive,India,28-02-2024
+B0010,Ocean,Shower Gel,23.87,34,811.58,3.2,Neutral,Australia,26-03-2024
+B0011,Peach Bellini,Hand Soap,13.77,149,2051.73,3.5,Positive,Australia,03-04-2024
+B0012,Japanese Cherry Blossom,Lotion,12.53,95,1190.35,4.8,Neutral,Australia,01-06-2024
+B0013,Japanese Cherry Blossom,Lotion,22.14,196,4339.44,4.3,Positive,Canada,15-04-2024
+B0014,Champagne Toast,Candle,17.45,72,1256.4,4.2,Positive,UK,20-04-2024
+B0015,Fresh Balsam,Candle,7.23,106,766.38,4.3,Negative,Germany,09-06-2024
+B0016,Dark Kiss,Shower Gel,29.68,144,4273.92,3.3,Negative,UK,30-03-2024
+B0017,Peach Bellini,Hand Soap,15.43,80,1234.4,3.6,Positive,Germany,13-05-2024
+B0018,A Thousand Wishes,Mist,8.07,126,1016.82,4.1,Neutral,UK,29-03-2024
+B0019,Warm Vanilla Sugar,Lotion,17.47,185,3231.95,3.3,Positive,UK,13-05-2024
+B0020,Sweet Pea,Shower Gel,21.61,87,1880.07,4,Positive,US,16-03-2024
+B0021,Kitchen Lemon,Hand Soap,10.43,161,1679.23,3.2,Positive,Australia,02-01-2024
+B0022,A Thousand Wishes,Mist,25.85,22,568.7,3.5,Positive,India,13-03-2024
+B0023,Ocean,Shower Gel,28.84,192,5537.28,3.5,Negative,Australia,20-02-2024
+B0024,Ocean,Shower Gel,12.27,18,220.86,3.9,Positive,Germany,26-07-2024
+B0025,Crisp Morning Air,Hand Soap,14.98,35,524.3,4.8,Negative,UK,01-06-2024
+B0026,Fresh Balsam,Candle,15.9,92,1462.8,4.6,Positive,Canada,15-07-2024
+B0027,Into the Night,Mist,15.41,61,940.01,3.6,Positive,Germany,25-05-2024
+B0028,Peach Bellini,Hand Soap,9.58,121,1159.18,3.2,Positive,UK,26-06-2024
+B0029,Sweet Pea,Shower Gel,22.81,129,2942.49,3.7,Positive,Australia,15-04-2024
+B0030,Aromatherapy Eucalyptus,Lotion,5.66,117,662.22,3.2,Positive,Canada,18-03-2024
+B0031,Sweet Pea,Shower Gel,14.33,168,2407.44,4.1,Positive,US,16-03-2024
+B0032,Kitchen Lemon,Hand Soap,15.07,11,165.77,3.9,Neutral,Australia,12-05-2024
+B0033,Warm Vanilla Sugar,Lotion,6.37,176,1121.12,3.2,Positive,UK,29-07-2024
+B0034,Dark Kiss,Shower Gel,22.26,25,556.5,3.2,Positive,Germany,10-05-2024
+B0035,Aromatherapy Eucalyptus,Lotion,10.13,46,465.98,4.1,Negative,Canada,04-02-2024
+B0036,Champagne Toast,Candle,20.71,194,4017.74,5,Positive,India,04-05-2024
+B0037,Mahogany Teakwood,Candle,6.68,49,327.32,4.2,Positive,Canada,25-01-2024
+B0038,Mahogany Teakwood,Candle,16.84,139,2340.76,3.9,Positive,UK,01-02-2024
+B0039,Crisp Morning Air,Hand Soap,29.57,70,2069.9,4.7,Positive,India,29-07-2024
+B0040,Peach Bellini,Hand Soap,20.43,120,2451.6,3.3,Positive,Germany,06-02-2024
+B0041,Mahogany Teakwood,Candle,17.79,189,3362.31,4.1,Positive,UK,15-03-2024
+B0042,Aromatherapy Eucalyptus,Lotion,17.32,180,3117.6,3.6,Positive,US,23-07-2024
+B0043,Crisp Morning Air,Hand Soap,25.34,47,1190.98,3.1,Positive,Australia,24-05-2024
+B0044,Aromatherapy Eucalyptus,Lotion,12.57,175,2199.75,4.3,Positive,US,23-04-2024
+B0045,Into the Night,Mist,16.7,195,3256.5,3.9,Positive,UK,10-02-2024
+B0046,Sweet Pea,Shower Gel,10.27,190,1951.3,4.1,Positive,Germany,14-02-2024
+B0047,Champagne Toast,Candle,21.4,154,3295.6,3.7,Neutral,Canada,20-07-2024
+B0048,A Thousand Wishes,Mist,12.57,110,1382.7,3.1,Neutral,Australia,03-05-2024
+B0049,Peach Bellini,Hand Soap,21.47,157,3370.79,4.4,Positive,India,17-06-2024
+B0050,Into the Night,Mist,22.44,160,3590.4,4.9,Positive,Australia,07-06-2024
+B0051,Warm Vanilla Sugar,Lotion,5.74,197,1130.78,3.3,Positive,Australia,28-01-2024
+B0052,Crisp Morning Air,Hand Soap,24,197,4728,4.6,Positive,Germany,14-02-2024
+B0053,Crisp Morning Air,Hand Soap,28.06,25,701.5,4.2,Positive,US,10-07-2024
+B0054,Crisp Morning Air,Hand Soap,20.16,17,342.72,4.8,Positive,Australia,27-06-2024
+B0055,Kitchen Lemon,Hand Soap,29.72,156,4636.32,4.1,Positive,Australia,05-05-2024
+B0056,Into the Night,Mist,10.03,51,511.53,3.9,Positive,Canada,21-07-2024
+B0057,Aromatherapy Eucalyptus,Lotion,5.61,181,1015.41,3.2,Positive,US,05-02-2024
+B0058,Gingham Love,Mist,19.21,28,537.88,3.7,Positive,Germany,05-07-2024
+B0059,Dark Kiss,Shower Gel,9.75,63,614.25,4.1,Positive,UK,31-03-2024
+B0060,Sweet Pea,Shower Gel,26.34,27,711.18,3.9,Positive,India,19-01-2024
+B0061,Warm Vanilla Sugar,Lotion,24.56,86,2112.16,3.2,Positive,India,14-01-2024
+B0062,Dark Kiss,Shower Gel,5.56,84,467.04,4.8,Positive,UK,29-06-2024
+B0063,Warm Vanilla Sugar,Lotion,29.2,29,846.8,4.1,Positive,India,12-05-2024
+B0064,Dark Kiss,Shower Gel,14.98,24,359.52,4.1,Neutral,Australia,29-05-2024
+B0065,A Thousand Wishes,Mist,5.75,96,552,3.8,Positive,US,14-07-2024
+B0066,Mahogany Teakwood,Candle,18.68,197,3679.96,3.7,Neutral,Canada,16-01-2024
+B0067,Kitchen Lemon,Hand Soap,25.14,154,3871.56,4.8,Neutral,US,14-07-2024
+B0068,Into the Night,Mist,28.75,163,4686.25,4.5,Negative,Australia,21-05-2024
+B0069,Champagne Toast,Candle,23.08,36,830.88,3.1,Positive,UK,15-06-2024
+B0070,Crisp Morning Air,Hand Soap,12.59,68,856.12,3,Positive,Canada,17-07-2024
+B0071,Sweet Pea,Shower Gel,26.51,184,4877.84,4.4,Positive,US,03-05-2024
+B0072,Crisp Morning Air,Hand Soap,22.39,120,2686.8,4.4,Positive,Australia,30-01-2024
+B0073,Aromatherapy Eucalyptus,Lotion,29.56,104,3074.24,3.7,Positive,Canada,15-01-2024
+B0074,Mahogany Teakwood,Candle,19.72,68,1340.96,3.8,Neutral,India,25-07-2024
+B0075,Ocean,Shower Gel,29.77,13,387.01,4.7,Positive,US,15-01-2024
+B0076,Warm Vanilla Sugar,Lotion,15.96,82,1308.72,3.1,Positive,Canada,16-06-2024
+B0077,Into the Night,Mist,20.15,132,2659.8,4.3,Positive,UK,20-01-2024
+B0078,Ocean,Shower Gel,17.37,198,3439.26,4.6,Neutral,Australia,26-02-2024
+B0079,Gingham Love,Mist,24.51,84,2058.84,4.7,Positive,UK,09-03-2024
+B0080,Sweet Pea,Shower Gel,7.61,98,745.78,4.8,Neutral,Australia,08-06-2024
+B0081,Into the Night,Mist,10.09,45,454.05,4.7,Positive,Germany,19-03-2024
+B0082,Ocean,Shower Gel,8.07,195,1573.65,4.6,Positive,Germany,01-03-2024
+B0083,Peach Bellini,Hand Soap,24.1,39,939.9,3,Neutral,UK,10-03-2024
+B0084,Dark Kiss,Shower Gel,12.51,31,387.81,3.1,Neutral,Australia,08-04-2024
+B0085,Japanese Cherry Blossom,Lotion,14.62,21,307.02,3.4,Positive,Australia,17-06-2024
+B0086,Ocean,Shower Gel,21.51,18,387.18,4.1,Positive,India,07-01-2024
+B0087,Gingham Love,Mist,25.26,161,4066.86,3.4,Positive,India,04-07-2024
+B0088,Crisp Morning Air,Hand Soap,24.57,198,4864.86,4.5,Neutral,Australia,21-05-2024
+B0089,A Thousand Wishes,Mist,16.59,156,2588.04,4.4,Neutral,Canada,07-03-2024
+B0090,Crisp Morning Air,Hand Soap,23.64,70,1654.8,3.3,Positive,Germany,23-07-2024
+B0091,Into the Night,Mist,29.97,148,4435.56,3.6,Positive,India,10-01-2024
+B0092,Gingham Love,Mist,11.72,74,867.28,4.6,Neutral,US,04-06-2024
+B0093,Japanese Cherry Blossom,Lotion,19.21,92,1767.32,4.7,Neutral,Australia,23-04-2024
+B0094,Japanese Cherry Blossom,Lotion,5.22,19,99.18,4.9,Positive,Canada,22-05-2024
+B0095,Kitchen Lemon,Hand Soap,19.49,30,584.7,3.6,Positive,US,21-03-2024
+B0096,Kitchen Lemon,Hand Soap,11.45,80,916,3.5,Positive,Germany,28-02-2024
+B0097,Mahogany Teakwood,Candle,26.78,177,4740.06,3.1,Positive,Canada,10-01-2024
+B0098,Dark Kiss,Shower Gel,19.5,20,390,4.1,Positive,UK,01-07-2024
+B0099,Into the Night,Mist,21.96,100,2196,4.1,Positive,UK,01-03-2024
+B0100,Warm Vanilla Sugar,Lotion,17.67,38,671.46,4,Positive,India,24-03-2024
+B0101,A Thousand Wishes,Mist,15.4,174,2679.6,3.9,Positive,UK,07-01-2024
+B0102,Dark Kiss,Shower Gel,13.37,114,1524.18,4.8,Positive,India,16-03-2024
+B0103,Warm Vanilla Sugar,Lotion,14.21,84,1193.64,4.9,Negative,US,07-01-2024
+B0104,Ocean,Shower Gel,25.2,140,3528,4.4,Neutral,India,19-07-2024
+B0105,Into the Night,Mist,14.47,159,2300.73,3.1,Neutral,Germany,07-04-2024
+B0106,Warm Vanilla Sugar,Lotion,28.97,67,1940.99,4.1,Negative,India,10-06-2024
+B0107,Peach Bellini,Hand Soap,23.33,145,3382.85,4.6,Positive,India,17-06-2024
+B0108,Dark Kiss,Shower Gel,12.92,59,762.28,4.7,Positive,UK,03-03-2024
+B0109,Champagne Toast,Candle,10.77,90,969.3,4.5,Positive,Australia,02-03-2024
+B0110,Crisp Morning Air,Hand Soap,6.99,153,1069.47,4,Negative,Australia,16-06-2024
+B0111,Ocean,Shower Gel,16.22,117,1897.74,3.5,Neutral,India,02-02-2024
+B0112,Champagne Toast,Candle,21.85,180,3933,3.3,Positive,UK,14-03-2024
+B0113,Into the Night,Mist,7.04,117,823.68,4,Positive,Germany,06-05-2024
+B0114,Mahogany Teakwood,Candle,26.91,13,349.83,3.3,Positive,India,14-07-2024
+B0115,Peach Bellini,Hand Soap,7.52,18,135.36,4.7,Positive,US,12-02-2024
+B0116,Fresh Balsam,Candle,26.67,109,2907.03,4.8,Positive,Germany,12-04-2024
+B0117,Ocean,Shower Gel,22.8,40,912,3.7,Neutral,India,27-03-2024
+B0118,Sweet Pea,Shower Gel,7.69,194,1491.86,3.1,Neutral,Australia,31-03-2024
+B0119,Peach Bellini,Hand Soap,16.24,121,1965.04,3.6,Positive,Germany,04-02-2024
+B0120,Fresh Balsam,Candle,24.15,140,3381,3.2,Neutral,India,31-05-2024
+B0121,A Thousand Wishes,Mist,21.24,107,2272.68,3.6,Positive,India,03-07-2024
+B0122,Into the Night,Mist,10.81,136,1470.16,3.7,Positive,India,14-05-2024
+B0123,Dark Kiss,Shower Gel,12.13,108,1310.04,3.6,Positive,US,06-02-2024
+B0124,Champagne Toast,Candle,17.98,157,2822.86,4.8,Positive,UK,29-03-2024
+B0125,Mahogany Teakwood,Candle,12.2,134,1634.8,3.9,Neutral,UK,14-03-2024
+B0126,Ocean,Shower Gel,28.11,180,5059.8,3.6,Positive,India,21-05-2024
+B0127,Mahogany Teakwood,Candle,19.96,20,399.2,4.9,Positive,Canada,23-07-2024
+B0128,Japanese Cherry Blossom,Lotion,25.81,16,412.96,3.7,Positive,Australia,26-05-2024
+B0129,Peach Bellini,Hand Soap,8.15,126,1026.9,3.6,Positive,US,29-06-2024
+B0130,Crisp Morning Air,Hand Soap,17.33,32,554.56,4.7,Negative,Germany,06-07-2024
+B0131,Japanese Cherry Blossom,Lotion,25.09,200,5018,4.6,Neutral,Canada,24-03-2024
+B0132,Dark Kiss,Shower Gel,11.9,171,2034.9,4.5,Positive,Germany,19-01-2024
+B0133,Into the Night,Mist,15.83,190,3007.7,4.6,Positive,Germany,22-05-2024
+B0134,Aromatherapy Eucalyptus,Lotion,20.68,72,1488.96,3.3,Positive,Germany,26-02-2024
+B0135,Champagne Toast,Candle,16.75,134,2244.5,4.6,Neutral,Canada,13-03-2024
+B0136,Fresh Balsam,Candle,26.9,142,3819.8,4.7,Neutral,Australia,01-01-2024
+B0137,Japanese Cherry Blossom,Lotion,18.94,63,1193.22,4.4,Positive,UK,25-06-2024
+B0138,Dark Kiss,Shower Gel,20.78,70,1454.6,4.3,Positive,Canada,17-06-2024
+B0139,Into the Night,Mist,26.88,181,4865.28,4,Neutral,India,10-04-2024
+B0140,A Thousand Wishes,Mist,17.02,34,578.68,3.4,Negative,UK,12-07-2024
+B0141,Crisp Morning Air,Hand Soap,13.13,179,2350.27,3.8,Positive,Germany,22-03-2024
+B0142,Japanese Cherry Blossom,Lotion,22.42,190,4259.8,3.3,Neutral,Australia,25-07-2024
+B0143,Dark Kiss,Shower Gel,22.18,17,377.06,3.6,Positive,Australia,19-07-2024
+B0144,Aromatherapy Eucalyptus,Lotion,24.29,76,1846.04,4.3,Positive,Australia,26-07-2024
+B0145,Crisp Morning Air,Hand Soap,11.52,23,264.96,3.5,Neutral,Germany,27-03-2024
+B0146,Japanese Cherry Blossom,Lotion,16.19,66,1068.54,4.1,Positive,Germany,22-02-2024
+B0147,Aromatherapy Eucalyptus,Lotion,20.27,43,871.61,4.2,Positive,US,03-07-2024
+B0148,Kitchen Lemon,Hand Soap,24.51,95,2328.45,4.8,Neutral,US,21-05-2024
+B0149,Aromatherapy Eucalyptus,Lotion,10.26,147,1508.22,3.4,Positive,Australia,17-05-2024
+B0150,Champagne Toast,Candle,25.03,105,2628.15,3.7,Positive,Canada,06-07-2024
+B0151,Warm Vanilla Sugar,Lotion,26.14,144,3764.16,3.2,Positive,US,04-05-2024
+B0152,Champagne Toast,Candle,12.54,68,852.72,4.3,Positive,UK,09-01-2024
+B0153,Japanese Cherry Blossom,Lotion,21.38,43,919.34,4.6,Neutral,US,22-01-2024
+B0154,Aromatherapy Eucalyptus,Lotion,23.05,197,4540.85,3.8,Positive,India,18-05-2024
+B0155,Mahogany Teakwood,Candle,23.4,110,2574,3.4,Positive,UK,20-03-2024
+B0156,Peach Bellini,Hand Soap,23.59,87,2052.33,3.5,Positive,Germany,08-03-2024
+B0157,Dark Kiss,Shower Gel,14.41,119,1714.79,3.2,Negative,UK,23-05-2024
+B0158,Crisp Morning Air,Hand Soap,27.69,146,4042.74,4,Positive,Germany,07-05-2024
+B0159,Crisp Morning Air,Hand Soap,24.07,192,4621.44,3.2,Positive,Australia,07-01-2024
+B0160,Champagne Toast,Candle,14.25,154,2194.5,3.2,Positive,Germany,06-02-2024
+B0161,Warm Vanilla Sugar,Lotion,19.02,63,1198.26,4.7,Positive,US,04-03-2024
+B0162,Champagne Toast,Candle,20.41,131,2673.71,4,Neutral,Canada,13-07-2024
+B0163,Japanese Cherry Blossom,Lotion,11.3,89,1005.7,4.5,Neutral,UK,10-01-2024
+B0164,Sweet Pea,Shower Gel,15.16,11,166.76,3.5,Positive,Australia,23-05-2024
+B0165,Dark Kiss,Shower Gel,12.83,176,2258.08,3.5,Positive,India,03-05-2024
+B0166,Sweet Pea,Shower Gel,29.82,30,894.6,4.8,Positive,Australia,20-01-2024
+B0167,Mahogany Teakwood,Candle,9.05,41,371.05,3.3,Positive,US,30-01-2024
+B0168,Crisp Morning Air,Hand Soap,9.27,144,1334.88,4,Neutral,Australia,20-05-2024
+B0169,Kitchen Lemon,Hand Soap,12.42,121,1502.82,5,Neutral,UK,22-06-2024
+B0170,Dark Kiss,Shower Gel,20.38,105,2139.9,4.1,Positive,India,15-03-2024
+B0171,Fresh Balsam,Candle,28.8,105,3024,4,Positive,Canada,28-04-2024
+B0172,A Thousand Wishes,Mist,23,44,1012,3.3,Neutral,US,01-05-2024
+B0173,Gingham Love,Mist,9.48,130,1232.4,3.1,Negative,Germany,20-03-2024
+B0174,Mahogany Teakwood,Candle,22.35,147,3285.45,3.9,Positive,Australia,08-06-2024
+B0175,Ocean,Shower Gel,6.67,172,1147.24,4.1,Positive,US,09-06-2024
+B0176,Champagne Toast,Candle,12.1,119,1439.9,4.2,Positive,Australia,08-06-2024
+B0177,A Thousand Wishes,Mist,18.53,178,3298.34,3.4,Positive,Germany,27-01-2024
+B0178,Champagne Toast,Candle,9.46,154,1456.84,3.2,Neutral,Germany,30-05-2024
+B0179,Crisp Morning Air,Hand Soap,19.39,161,3121.79,4.2,Negative,India,07-07-2024
+B0180,Kitchen Lemon,Hand Soap,9.2,69,634.8,5,Positive,India,24-07-2024
+B0181,Mahogany Teakwood,Candle,9.12,10,91.2,3.6,Neutral,Canada,14-01-2024
+B0182,Dark Kiss,Shower Gel,15.64,130,2033.2,3.7,Positive,Canada,31-01-2024
+B0183,Dark Kiss,Shower Gel,14.43,108,1558.44,4.4,Positive,UK,13-05-2024
+B0184,Ocean,Shower Gel,27.08,64,1733.12,4.9,Negative,Germany,12-03-2024
+B0185,Champagne Toast,Candle,19.01,135,2566.35,4.4,Positive,India,31-01-2024
+B0186,Peach Bellini,Hand Soap,13.7,16,219.2,4.7,Neutral,Germany,16-07-2024
+B0187,A Thousand Wishes,Mist,15.6,167,2605.2,4.1,Negative,Australia,18-02-2024
+B0188,Into the Night,Mist,28.33,12,339.96,3.4,Positive,US,19-02-2024
+B0189,Dark Kiss,Shower Gel,13.21,104,1373.84,4.8,Positive,India,04-01-2024
+B0190,Into the Night,Mist,21.18,174,3685.32,4,Positive,Germany,27-06-2024
+B0191,Gingham Love,Mist,20.63,156,3218.28,4.6,Neutral,India,30-04-2024
+B0192,Crisp Morning Air,Hand Soap,9.34,175,1634.5,4.5,Neutral,UK,10-01-2024
+B0193,Aromatherapy Eucalyptus,Lotion,27.36,49,1340.64,4.4,Positive,US,03-02-2024
+B0194,Kitchen Lemon,Hand Soap,6.4,173,1107.2,4.4,Positive,UK,19-05-2024
+B0195,Fresh Balsam,Candle,20.35,14,284.9,3.7,Positive,Germany,22-03-2024
+B0196,Fresh Balsam,Candle,23.05,103,2374.15,4,Negative,Australia,13-04-2024
+B0197,Warm Vanilla Sugar,Lotion,9.82,138,1355.16,3.3,Positive,Australia,14-02-2024
+B0198,Japanese Cherry Blossom,Lotion,20.21,186,3759.06,4,Positive,US,10-07-2024
+B0199,Gingham Love,Mist,19.01,40,760.4,3.7,Positive,US,27-06-2024
+B0200,Dark Kiss,Shower Gel,7.2,33,237.6,3.4,Positive,India,22-03-2024
+B0201,Warm Vanilla Sugar,Lotion,24.72,65,1606.8,4.3,Positive,Canada,04-07-2024
+B0202,A Thousand Wishes,Mist,21.06,58,1221.48,4.5,Neutral,US,20-03-2024
+B0203,Peach Bellini,Hand Soap,12.18,81,986.58,3.3,Positive,Canada,27-02-2024
+B0204,Into the Night,Mist,9.43,85,801.55,3.5,Positive,Australia,24-01-2024
+B0205,A Thousand Wishes,Mist,14.09,174,2451.66,4,Neutral,Canada,24-06-2024
+B0206,Aromatherapy Eucalyptus,Lotion,14.64,147,2152.08,4.1,Negative,UK,21-04-2024
+B0207,Into the Night,Mist,13.55,138,1869.9,4.1,Neutral,US,09-03-2024
+B0208,Ocean,Shower Gel,11.46,129,1478.34,3.5,Negative,Germany,12-05-2024
+B0209,Champagne Toast,Candle,8.5,160,1360,3.6,Positive,India,17-06-2024
+B0210,Japanese Cherry Blossom,Lotion,22.53,171,3852.63,3.7,Negative,Australia,10-02-2024
+B0211,Crisp Morning Air,Hand Soap,13.42,35,469.7,3.4,Positive,Australia,11-02-2024
+B0212,Ocean,Shower Gel,23.8,122,2903.6,4.6,Positive,Germany,27-05-2024
+B0213,Peach Bellini,Hand Soap,14.98,72,1078.56,3.5,Positive,Australia,27-03-2024
+B0214,Crisp Morning Air,Hand Soap,6,69,414,4.5,Negative,US,09-05-2024
+B0215,Crisp Morning Air,Hand Soap,24.35,157,3822.95,3.8,Positive,Canada,11-05-2024
+B0216,A Thousand Wishes,Mist,29.13,144,4194.72,3.4,Negative,Canada,11-07-2024
+B0217,Fresh Balsam,Candle,13.33,23,306.59,4.9,Positive,Canada,15-07-2024
+B0218,Gingham Love,Mist,14.9,127,1892.3,3,Positive,UK,14-02-2024
+B0219,Into the Night,Mist,9.61,62,595.82,3.9,Neutral,Germany,09-02-2024
+B0220,Dark Kiss,Shower Gel,5.12,50,256,3.7,Positive,Australia,24-06-2024
+B0221,Champagne Toast,Candle,21.71,128,2778.88,4.4,Neutral,Australia,25-01-2024
+B0222,Champagne Toast,Candle,24.08,44,1059.52,3.8,Positive,Germany,13-03-2024
+B0223,Peach Bellini,Hand Soap,14.85,28,415.8,3.7,Positive,US,30-05-2024
+B0224,Fresh Balsam,Candle,9.45,70,661.5,3.7,Positive,US,29-07-2024
+B0225,Sweet Pea,Shower Gel,23.79,29,689.91,4.3,Positive,US,18-02-2024
+B0226,Champagne Toast,Candle,15.89,96,1525.44,3.8,Positive,UK,08-02-2024
+B0227,Gingham Love,Mist,21.88,133,2910.04,3.1,Negative,Canada,17-04-2024
+B0228,Champagne Toast,Candle,22.06,37,816.22,3.9,Positive,Germany,24-06-2024
+B0229,Aromatherapy Eucalyptus,Lotion,26.56,13,345.28,3.3,Positive,Australia,09-05-2024
+B0230,Kitchen Lemon,Hand Soap,17.15,181,3104.15,3.8,Neutral,Australia,18-03-2024
+B0231,A Thousand Wishes,Mist,20.85,164,3419.4,4.6,Negative,UK,08-05-2024
+B0232,Peach Bellini,Hand Soap,13.38,146,1953.48,4.9,Positive,Australia,15-02-2024
+B0233,Dark Kiss,Shower Gel,26.76,30,802.8,3.3,Positive,India,30-06-2024
+B0234,Into the Night,Mist,17.87,167,2984.29,4.5,Positive,Australia,13-01-2024
+B0235,Into the Night,Mist,8.04,135,1085.4,3.9,Positive,Germany,02-06-2024
+B0236,Gingham Love,Mist,15.64,182,2846.48,3.6,Neutral,UK,18-05-2024
+B0237,Champagne Toast,Candle,13.92,14,194.88,3.9,Positive,India,10-01-2024
+B0238,Japanese Cherry Blossom,Lotion,23.3,146,3401.8,4.5,Positive,India,22-01-2024
+B0239,Warm Vanilla Sugar,Lotion,23.17,172,3985.24,4,Neutral,Australia,29-03-2024
+B0240,Ocean,Shower Gel,27.97,197,5510.09,4.6,Positive,US,11-01-2024
+B0241,Gingham Love,Mist,5.96,165,983.4,5,Positive,Australia,26-01-2024
+B0242,Sweet Pea,Shower Gel,6.97,173,1205.81,4.5,Positive,Canada,06-01-2024
+B0243,A Thousand Wishes,Mist,21.32,30,639.6,4.7,Positive,Canada,30-01-2024
+B0244,Dark Kiss,Shower Gel,29.87,167,4988.29,4,Neutral,Germany,03-03-2024
+B0245,Japanese Cherry Blossom,Lotion,19.33,65,1256.45,4.5,Positive,Germany,10-07-2024
+B0246,Champagne Toast,Candle,17.54,21,368.34,4.2,Negative,UK,22-06-2024
+B0247,Into the Night,Mist,15.18,14,212.52,4.6,Positive,UK,11-03-2024
+B0248,Peach Bellini,Hand Soap,24.76,172,4258.72,3.6,Positive,Germany,05-01-2024
+B0249,Into the Night,Mist,6.59,83,546.97,4.5,Positive,India,27-04-2024
+B0250,Peach Bellini,Hand Soap,19.88,148,2942.24,3.8,Negative,UK,04-01-2024
+B0251,Gingham Love,Mist,13.66,123,1680.18,3.3,Neutral,Canada,07-05-2024
+B0252,Sweet Pea,Shower Gel,9.25,109,1008.25,3.5,Positive,US,26-05-2024
+B0253,Peach Bellini,Hand Soap,29.62,31,918.22,3.4,Negative,UK,04-04-2024
+B0254,Gingham Love,Mist,16.29,129,2101.41,3.1,Positive,India,12-02-2024
+B0255,A Thousand Wishes,Mist,15.79,15,236.85,4.5,Positive,Australia,09-07-2024
+B0256,Champagne Toast,Candle,28.03,43,1205.29,3.8,Negative,US,01-02-2024
+B0257,Kitchen Lemon,Hand Soap,10.28,38,390.64,4.1,Positive,Germany,10-02-2024
+B0258,Peach Bellini,Hand Soap,15.21,65,988.65,3.8,Positive,UK,22-03-2024
+B0259,Aromatherapy Eucalyptus,Lotion,27.12,172,4664.64,4.5,Positive,India,17-05-2024
+B0260,Kitchen Lemon,Hand Soap,26.48,136,3601.28,4.5,Positive,Canada,25-04-2024
+B0261,Champagne Toast,Candle,12.21,146,1782.66,4.7,Neutral,Canada,16-06-2024
+B0262,Japanese Cherry Blossom,Lotion,19.5,117,2281.5,4.9,Positive,US,11-06-2024
+B0263,Ocean,Shower Gel,8.46,168,1421.28,4,Positive,Germany,26-05-2024
+B0264,Kitchen Lemon,Hand Soap,13.13,73,958.49,3.3,Positive,US,24-06-2024
+B0265,Into the Night,Mist,23.57,177,4171.89,3.8,Positive,Canada,19-02-2024
+B0266,Crisp Morning Air,Hand Soap,23.08,71,1638.68,3.4,Negative,UK,21-02-2024
+B0267,Champagne Toast,Candle,6.62,17,112.54,3.4,Positive,Germany,03-03-2024
+B0268,Dark Kiss,Shower Gel,29.74,55,1635.7,4.9,Positive,India,29-01-2024
+B0269,Into the Night,Mist,11.12,194,2157.28,4.9,Positive,Germany,09-01-2024
+B0270,Peach Bellini,Hand Soap,29.89,108,3228.12,3.1,Positive,Germany,07-03-2024
+B0271,Ocean,Shower Gel,22.89,165,3776.85,4.3,Positive,Australia,07-01-2024
+B0272,Peach Bellini,Hand Soap,6.49,111,720.39,4.7,Neutral,UK,11-01-2024
+B0273,Peach Bellini,Hand Soap,28.18,171,4818.78,4.3,Positive,US,01-02-2024
+B0274,Champagne Toast,Candle,23.95,158,3784.1,4.5,Positive,UK,13-02-2024
+B0275,Peach Bellini,Hand Soap,13.5,72,972,4.6,Positive,UK,25-01-2024
+B0276,Japanese Cherry Blossom,Lotion,27.48,135,3709.8,4.5,Neutral,UK,28-03-2024
+B0277,Crisp Morning Air,Hand Soap,24.68,189,4664.52,3.5,Positive,Canada,10-01-2024
+B0278,Fresh Balsam,Candle,12.21,66,805.86,4.8,Positive,UK,01-07-2024
+B0279,A Thousand Wishes,Mist,8.96,172,1541.12,3.6,Neutral,UK,21-06-2024
+B0280,Fresh Balsam,Candle,25.13,42,1055.46,3.3,Positive,UK,08-04-2024
+B0281,Mahogany Teakwood,Candle,26.27,159,4176.93,3.6,Positive,UK,07-03-2024
+B0282,Sweet Pea,Shower Gel,26.76,142,3799.92,3.8,Positive,UK,13-02-2024
+B0283,Fresh Balsam,Candle,26.32,90,2368.8,4,Positive,Germany,04-05-2024
+B0284,Fresh Balsam,Candle,17.05,133,2267.65,4.8,Positive,UK,17-01-2024
+B0285,Champagne Toast,Candle,10.16,48,487.68,3.6,Neutral,US,21-07-2024
+B0286,Champagne Toast,Candle,17.47,155,2707.85,4.8,Negative,India,10-07-2024
+B0287,Fresh Balsam,Candle,10.06,180,1810.8,3.1,Positive,India,25-03-2024
+B0288,Japanese Cherry Blossom,Lotion,18.83,146,2749.18,4.7,Positive,US,21-01-2024
+B0289,Peach Bellini,Hand Soap,18.07,72,1301.04,3.5,Neutral,Germany,25-06-2024
+B0290,Mahogany Teakwood,Candle,22.24,126,2802.24,3.4,Negative,India,09-03-2024
+B0291,Into the Night,Mist,23.58,197,4645.26,4.7,Positive,India,03-02-2024
+B0292,Into the Night,Mist,10.19,72,733.68,4.2,Positive,US,28-04-2024
+B0293,Ocean,Shower Gel,12.97,172,2230.84,3.1,Positive,US,23-04-2024
+B0294,Kitchen Lemon,Hand Soap,7.5,160,1200,3.4,Positive,US,25-05-2024
+B0295,Dark Kiss,Shower Gel,26.53,38,1008.14,4.4,Positive,Canada,13-06-2024
+B0296,Sweet Pea,Shower Gel,20.36,126,2565.36,5,Positive,India,14-04-2024
+B0297,Gingham Love,Mist,20.78,94,1953.32,4,Positive,UK,14-06-2024
+B0298,A Thousand Wishes,Mist,11.23,80,898.4,4.4,Positive,Australia,09-06-2024
+B0299,Warm Vanilla Sugar,Lotion,17.19,91,1564.29,4.8,Positive,Canada,06-05-2024
+B0300,Mahogany Teakwood,Candle,24.01,182,4369.82,3.6,Negative,UK,23-04-2024
+B0301,Ocean,Shower Gel,9.84,37,364.08,4.5,Positive,UK,08-05-2024
+B0302,A Thousand Wishes,Mist,16.8,185,3108,3.6,Positive,Germany,26-05-2024
+B0303,Champagne Toast,Candle,8.91,111,989.01,4.6,Neutral,Germany,05-06-2024
+B0304,Champagne Toast,Candle,28.92,131,3788.52,4.3,Neutral,Germany,18-07-2024
+B0305,Into the Night,Mist,28.32,130,3681.6,4.9,Neutral,Canada,04-04-2024
+B0306,Gingham Love,Mist,23.17,200,4634,3.6,Positive,Australia,24-05-2024
+B0307,Kitchen Lemon,Hand Soap,24.06,113,2718.78,3.1,Positive,Canada,14-06-2024
+B0308,Crisp Morning Air,Hand Soap,5.49,190,1043.1,3.4,Positive,UK,06-03-2024
+B0309,Into the Night,Mist,13.05,107,1396.35,3.7,Positive,Canada,21-02-2024
+B0310,Sweet Pea,Shower Gel,16,80,1280,3.2,Positive,Germany,24-03-2024
+B0311,Peach Bellini,Hand Soap,19.82,21,416.22,4.6,Positive,Australia,29-06-2024
+B0312,Champagne Toast,Candle,29.67,160,4747.2,3.8,Positive,UK,12-06-2024
+B0313,A Thousand Wishes,Mist,14.24,82,1167.68,3.2,Positive,US,10-07-2024
+B0314,A Thousand Wishes,Mist,15.34,48,736.32,4.7,Positive,Canada,26-05-2024
+B0315,Ocean,Shower Gel,15.96,93,1484.28,4.1,Neutral,India,07-03-2024
+B0316,Dark Kiss,Shower Gel,22.24,45,1000.8,4.5,Positive,Germany,20-07-2024
+B0317,Gingham Love,Mist,27.63,124,3426.12,4.5,Positive,Australia,23-03-2024
+B0318,Champagne Toast,Candle,14.06,60,843.6,4.4,Neutral,India,06-03-2024
+B0319,Warm Vanilla Sugar,Lotion,7.98,115,917.7,3.9,Neutral,US,23-07-2024
+B0320,Ocean,Shower Gel,27.82,141,3922.62,3.7,Positive,India,09-01-2024
+B0321,A Thousand Wishes,Mist,17.3,157,2716.1,3.7,Positive,India,20-01-2024
+B0322,Aromatherapy Eucalyptus,Lotion,24.51,146,3578.46,3.3,Positive,India,23-01-2024
+B0323,Peach Bellini,Hand Soap,21.25,58,1232.5,4.5,Neutral,UK,20-04-2024
+B0324,Crisp Morning Air,Hand Soap,27.23,199,5418.77,3.3,Positive,Germany,16-02-2024
+B0325,Dark Kiss,Shower Gel,16.35,187,3057.45,4.5,Negative,Australia,06-01-2024
+B0326,Dark Kiss,Shower Gel,5.16,109,562.44,3,Positive,Canada,19-04-2024
+B0327,Into the Night,Mist,19.61,93,1823.73,4.1,Positive,India,21-02-2024
+B0328,A Thousand Wishes,Mist,26.68,49,1307.32,3.4,Positive,Canada,19-03-2024
+B0329,Warm Vanilla Sugar,Lotion,18.34,20,366.8,4.6,Positive,UK,18-01-2024
+B0330,Into the Night,Mist,21.45,61,1308.45,3.6,Positive,Canada,10-03-2024
+B0331,Champagne Toast,Candle,5.68,122,692.96,3.2,Negative,Australia,07-01-2024
+B0332,Champagne Toast,Candle,6.23,122,760.06,3.8,Positive,India,07-04-2024
+B0333,Warm Vanilla Sugar,Lotion,29.23,139,4062.97,4.8,Neutral,Canada,01-02-2024
+B0334,Mahogany Teakwood,Candle,28.52,199,5675.48,4.2,Neutral,Australia,22-03-2024
+B0335,Mahogany Teakwood,Candle,29.63,139,4118.57,3.7,Positive,Australia,29-01-2024
+B0336,Warm Vanilla Sugar,Lotion,14.5,117,1696.5,3.8,Neutral,UK,31-03-2024
+B0337,Into the Night,Mist,15.85,176,2789.6,3.6,Negative,Germany,22-01-2024
+B0338,Crisp Morning Air,Hand Soap,5.4,80,432,4.5,Neutral,Canada,12-01-2024
+B0339,Mahogany Teakwood,Candle,19.11,42,802.62,4,Positive,US,30-04-2024
+B0340,Aromatherapy Eucalyptus,Lotion,25.06,199,4986.94,4.3,Positive,Canada,16-04-2024
+B0341,Kitchen Lemon,Hand Soap,9.37,142,1330.54,4.9,Neutral,Germany,26-07-2024
+B0342,Champagne Toast,Candle,26.98,38,1025.24,4.6,Positive,UK,22-02-2024
+B0343,Peach Bellini,Hand Soap,14.33,77,1103.41,4.2,Positive,UK,07-01-2024
+B0344,Japanese Cherry Blossom,Lotion,5.86,46,269.56,4.8,Positive,India,06-04-2024
+B0345,Ocean,Shower Gel,8.95,13,116.35,3.7,Positive,US,17-04-2024
+B0346,Japanese Cherry Blossom,Lotion,16.61,116,1926.76,4.7,Positive,India,04-02-2024
+B0347,Japanese Cherry Blossom,Lotion,16.91,75,1268.25,3.3,Positive,India,03-04-2024
+B0348,Japanese Cherry Blossom,Lotion,17.32,156,2701.92,3.4,Positive,Canada,03-02-2024
+B0349,Fresh Balsam,Candle,7.05,34,239.7,4.4,Positive,US,06-06-2024
+B0350,Mahogany Teakwood,Candle,11.27,196,2208.92,4.3,Positive,Germany,28-04-2024
+B0351,Sweet Pea,Shower Gel,17.92,78,1397.76,4.5,Positive,UK,18-04-2024
+B0352,Fresh Balsam,Candle,23.41,18,421.38,4.5,Neutral,US,10-06-2024
+B0353,Mahogany Teakwood,Candle,5.36,172,921.92,3.1,Neutral,Australia,11-02-2024
+B0354,Into the Night,Mist,19.3,133,2566.9,4.7,Positive,India,28-07-2024
+B0355,Crisp Morning Air,Hand Soap,29.82,126,3757.32,4.2,Positive,Germany,31-01-2024
+B0356,A Thousand Wishes,Mist,24.21,96,2324.16,3.7,Neutral,UK,06-03-2024
+B0357,Peach Bellini,Hand Soap,16.41,34,557.94,4.3,Positive,UK,12-05-2024
+B0358,Japanese Cherry Blossom,Lotion,15.66,16,250.56,4.9,Positive,Australia,28-02-2024
+B0359,Warm Vanilla Sugar,Lotion,18.76,85,1594.6,3.3,Positive,Australia,25-04-2024
+B0360,Ocean,Shower Gel,29.16,139,4053.24,3.4,Neutral,Canada,10-05-2024
+B0361,Fresh Balsam,Candle,10.55,14,147.7,3.4,Neutral,India,14-05-2024
+B0362,Fresh Balsam,Candle,26.5,144,3816,3.1,Positive,Canada,18-05-2024
+B0363,Ocean,Shower Gel,14.36,35,502.6,4.4,Positive,Canada,07-06-2024
+B0364,Fresh Balsam,Candle,28.55,166,4739.3,3.8,Positive,Australia,13-01-2024
+B0365,Gingham Love,Mist,27.52,117,3219.84,4.8,Positive,Germany,04-02-2024
+B0366,Into the Night,Mist,6.87,191,1312.17,4.1,Positive,India,06-07-2024
+B0367,Ocean,Shower Gel,6.48,115,745.2,3.3,Positive,Canada,11-02-2024
+B0368,Kitchen Lemon,Hand Soap,21.15,110,2326.5,4.2,Positive,US,30-03-2024
+B0369,Champagne Toast,Candle,8.51,112,953.12,3.2,Neutral,Canada,21-06-2024
+B0370,Champagne Toast,Candle,8.56,80,684.8,4.5,Positive,India,31-01-2024
+B0371,A Thousand Wishes,Mist,7.57,170,1286.9,4.2,Positive,UK,22-04-2024
+B0372,Aromatherapy Eucalyptus,Lotion,23.57,126,2969.82,3.3,Neutral,Germany,12-07-2024
+B0373,Gingham Love,Mist,28.74,20,574.8,3.8,Neutral,Germany,29-01-2024
+B0374,Crisp Morning Air,Hand Soap,19.62,191,3747.42,4.4,Neutral,UK,13-07-2024
+B0375,Fresh Balsam,Candle,7.58,197,1493.26,4.2,Positive,Canada,02-04-2024
+B0376,Peach Bellini,Hand Soap,29.08,117,3402.36,3.1,Positive,UK,16-07-2024
+B0377,Gingham Love,Mist,21.01,94,1974.94,3.8,Neutral,US,01-04-2024
+B0378,Warm Vanilla Sugar,Lotion,22.83,134,3059.22,3.5,Positive,Australia,31-05-2024
+B0379,Into the Night,Mist,29.93,191,5716.63,4,Positive,Australia,24-05-2024
+B0380,Sweet Pea,Shower Gel,26.76,180,4816.8,3.8,Positive,Germany,31-05-2024
+B0381,Aromatherapy Eucalyptus,Lotion,7.37,71,523.27,3.7,Positive,Australia,03-06-2024
+B0382,Peach Bellini,Hand Soap,23.61,98,2313.78,4.3,Positive,India,27-04-2024
+B0383,Ocean,Shower Gel,28.5,170,4845,4.5,Positive,Canada,07-01-2024
+B0384,Ocean,Shower Gel,5.6,94,526.4,3.2,Negative,US,24-07-2024
+B0385,Crisp Morning Air,Hand Soap,13.96,184,2568.64,3.7,Negative,UK,04-03-2024
+B0386,Kitchen Lemon,Hand Soap,13.11,188,2464.68,5,Positive,Canada,22-07-2024
+B0387,Fresh Balsam,Candle,24.27,150,3640.5,4.3,Neutral,UK,11-07-2024
+B0388,Champagne Toast,Candle,26.42,95,2509.9,3.7,Positive,Canada,25-07-2024
+B0389,Gingham Love,Mist,7.53,194,1460.82,3.2,Positive,Australia,08-06-2024
+B0390,Champagne Toast,Candle,10.05,191,1919.55,4,Positive,UK,22-04-2024
+B0391,Mahogany Teakwood,Candle,13.07,38,496.66,3.4,Positive,Germany,09-05-2024
+B0392,Dark Kiss,Shower Gel,23.92,147,3516.24,3.4,Positive,Canada,20-01-2024
+B0393,Warm Vanilla Sugar,Lotion,22.79,179,4079.41,3.8,Positive,UK,02-07-2024
+B0394,Dark Kiss,Shower Gel,14.92,108,1611.36,3.2,Negative,UK,27-07-2024
+B0395,Sweet Pea,Shower Gel,29.27,92,2692.84,5,Positive,Canada,11-01-2024
+B0396,Ocean,Shower Gel,21.69,80,1735.2,3.1,Positive,Canada,26-06-2024
+B0397,Mahogany Teakwood,Candle,16.01,65,1040.65,3.3,Positive,India,06-01-2024
+B0398,Crisp Morning Air,Hand Soap,15.36,151,2319.36,5,Positive,India,17-02-2024
+B0399,Dark Kiss,Shower Gel,20.68,109,2254.12,4.5,Neutral,UK,03-04-2024
+B0400,Crisp Morning Air,Hand Soap,14.11,70,987.7,3.6,Positive,Canada,26-06-2024
+B0401,A Thousand Wishes,Mist,11.17,147,1641.99,4.2,Positive,India,19-07-2024
+B0402,Peach Bellini,Hand Soap,12.84,164,2105.76,3.5,Positive,Germany,28-06-2024
+B0403,Ocean,Shower Gel,16.63,157,2610.91,4.7,Positive,Australia,22-04-2024
+B0404,Dark Kiss,Shower Gel,6.62,53,350.86,3,Positive,US,15-06-2024
+B0405,Gingham Love,Mist,26.69,47,1254.43,3.1,Positive,UK,03-07-2024
+B0406,Dark Kiss,Shower Gel,28.68,196,5621.28,3.1,Positive,Germany,20-04-2024
+B0407,Champagne Toast,Candle,10.38,125,1297.5,3.6,Positive,UK,18-03-2024
+B0408,Fresh Balsam,Candle,24.96,140,3494.4,4.9,Positive,Germany,18-05-2024
+B0409,Dark Kiss,Shower Gel,26.57,166,4410.62,3.1,Neutral,US,30-05-2024
+B0410,Aromatherapy Eucalyptus,Lotion,6.59,115,757.85,4.5,Neutral,India,04-03-2024
+B0411,Mahogany Teakwood,Candle,5.74,136,780.64,4.5,Positive,Australia,25-01-2024
+B0412,Sweet Pea,Shower Gel,28.73,109,3131.57,4.6,Positive,Canada,01-05-2024
+B0413,Into the Night,Mist,7.4,100,740,3.4,Positive,Australia,05-03-2024
+B0414,Warm Vanilla Sugar,Lotion,11.51,61,702.11,3.5,Negative,US,11-06-2024
+B0415,Gingham Love,Mist,23.8,144,3427.2,3.5,Neutral,India,16-01-2024
+B0416,Aromatherapy Eucalyptus,Lotion,14.33,53,759.49,3,Negative,US,04-01-2024
+B0417,Gingham Love,Mist,12.66,155,1962.3,4.1,Neutral,Canada,14-02-2024
+B0418,Dark Kiss,Shower Gel,9.54,65,620.1,5,Positive,Canada,23-06-2024
+B0419,Dark Kiss,Shower Gel,19.35,122,2360.7,4.4,Neutral,India,15-02-2024
+B0420,Champagne Toast,Candle,5.76,19,109.44,4.9,Neutral,US,22-07-2024
+B0421,Gingham Love,Mist,7.69,184,1414.96,3.4,Positive,Australia,26-01-2024
+B0422,Fresh Balsam,Candle,8.88,166,1474.08,4.8,Negative,India,17-06-2024
+B0423,Crisp Morning Air,Hand Soap,28.6,181,5176.6,4.1,Positive,Canada,03-04-2024
+B0424,Champagne Toast,Candle,9.71,113,1097.23,3.1,Positive,Germany,02-05-2024
+B0425,Ocean,Shower Gel,26.19,33,864.27,4.3,Positive,India,14-05-2024
+B0426,Sweet Pea,Shower Gel,18.3,110,2013,4.5,Positive,UK,13-03-2024
+B0427,Champagne Toast,Candle,24.09,84,2023.56,4.9,Positive,Australia,21-04-2024
+B0428,Japanese Cherry Blossom,Lotion,5.6,36,201.6,3.6,Positive,UK,09-04-2024
+B0429,Crisp Morning Air,Hand Soap,24.27,188,4562.76,3.1,Neutral,US,18-02-2024
+B0430,A Thousand Wishes,Mist,23.7,156,3697.2,4.1,Positive,US,08-07-2024
+B0431,Ocean,Shower Gel,6.18,87,537.66,3.8,Positive,US,17-05-2024
+B0432,Peach Bellini,Hand Soap,17.71,55,974.05,4,Positive,Canada,12-01-2024
+B0433,Japanese Cherry Blossom,Lotion,28.75,66,1897.5,4.4,Positive,Australia,22-02-2024
+B0434,Fresh Balsam,Candle,21.01,13,273.13,3.1,Positive,US,25-06-2024
+B0435,Into the Night,Mist,27.61,178,4914.58,4.6,Neutral,Australia,15-02-2024
+B0436,Champagne Toast,Candle,27.94,112,3129.28,3.1,Positive,India,04-03-2024
+B0437,Gingham Love,Mist,22.01,191,4203.91,4.7,Positive,Germany,22-02-2024
+B0438,Gingham Love,Mist,22.26,116,2582.16,4.6,Positive,Australia,18-02-2024
+B0439,A Thousand Wishes,Mist,5.26,187,983.62,3.8,Positive,Canada,24-04-2024
+B0440,Mahogany Teakwood,Candle,20.94,39,816.66,3.3,Neutral,Canada,18-01-2024
+B0441,Dark Kiss,Shower Gel,9.18,199,1826.82,3.5,Positive,Australia,26-06-2024
+B0442,A Thousand Wishes,Mist,12.16,155,1884.8,3.5,Neutral,Canada,11-04-2024
+B0443,Aromatherapy Eucalyptus,Lotion,26.16,61,1595.76,3.3,Negative,Australia,30-04-2024
+B0444,Warm Vanilla Sugar,Lotion,10.72,109,1168.48,3.4,Neutral,US,25-07-2024
+B0445,Champagne Toast,Candle,20.38,122,2486.36,4.5,Positive,US,15-07-2024
+B0446,Ocean,Shower Gel,24.21,195,4720.95,3.6,Positive,UK,09-02-2024
+B0447,Into the Night,Mist,13.75,61,838.75,4.8,Positive,Canada,07-04-2024
+B0448,A Thousand Wishes,Mist,6.59,57,375.63,4.3,Positive,Australia,03-07-2024
+B0449,Japanese Cherry Blossom,Lotion,6.73,72,484.56,4.2,Positive,Canada,11-02-2024
+B0450,Dark Kiss,Shower Gel,6.42,185,1187.7,3.1,Positive,India,05-01-2024
+B0451,Fresh Balsam,Candle,28.32,104,2945.28,3.1,Negative,Canada,24-06-2024
+B0452,Japanese Cherry Blossom,Lotion,5.09,24,122.16,4.6,Neutral,Canada,31-01-2024
+B0453,Aromatherapy Eucalyptus,Lotion,18.64,15,279.6,4.3,Negative,Germany,26-05-2024
+B0454,Crisp Morning Air,Hand Soap,22.14,109,2413.26,3.9,Neutral,Australia,23-06-2024
+B0455,Dark Kiss,Shower Gel,13.63,172,2344.36,3.9,Negative,Australia,09-02-2024
+B0456,Dark Kiss,Shower Gel,10.6,83,879.8,4.3,Positive,UK,09-04-2024
+B0457,Champagne Toast,Candle,23.5,120,2820,4.6,Positive,Australia,27-04-2024
+B0458,Ocean,Shower Gel,29.69,42,1246.98,4.7,Positive,Australia,13-04-2024
+B0459,Crisp Morning Air,Hand Soap,23.34,123,2870.82,4.9,Positive,UK,27-03-2024
+B0460,Kitchen Lemon,Hand Soap,23.08,62,1430.96,3.5,Neutral,Canada,25-05-2024
+B0461,Dark Kiss,Shower Gel,27.51,150,4126.5,4.7,Neutral,Germany,05-04-2024
+B0462,Into the Night,Mist,14.82,130,1926.6,3.2,Positive,India,17-03-2024
+B0463,Kitchen Lemon,Hand Soap,9.99,96,959.04,4.1,Positive,India,08-04-2024
+B0464,Kitchen Lemon,Hand Soap,28.58,16,457.28,4.4,Positive,Canada,19-06-2024
+B0465,A Thousand Wishes,Mist,22.02,49,1078.98,4.3,Positive,Canada,24-07-2024
+B0466,Champagne Toast,Candle,12.91,72,929.52,4.7,Positive,UK,04-05-2024
+B0467,Sweet Pea,Shower Gel,18.26,170,3104.2,4.8,Positive,US,20-07-2024
+B0468,Warm Vanilla Sugar,Lotion,5.22,23,120.06,3.7,Positive,Canada,01-04-2024
+B0469,Mahogany Teakwood,Candle,12.69,26,329.94,3.7,Negative,Australia,29-05-2024
+B0470,Crisp Morning Air,Hand Soap,22.59,84,1897.56,3.6,Neutral,Canada,10-02-2024
+B0471,Champagne Toast,Candle,7.96,168,1337.28,3.8,Positive,Australia,09-06-2024
+B0472,A Thousand Wishes,Mist,26.2,73,1912.6,5,Positive,Australia,07-02-2024
+B0473,Warm Vanilla Sugar,Lotion,8.39,107,897.73,3.9,Positive,US,15-07-2024
+B0474,Sweet Pea,Shower Gel,29.69,102,3028.38,4.9,Positive,Australia,16-02-2024
+B0475,Japanese Cherry Blossom,Lotion,28.67,155,4443.85,3.7,Positive,UK,22-01-2024
+B0476,Warm Vanilla Sugar,Lotion,8.37,86,719.82,4.4,Negative,Germany,29-01-2024
+B0477,Fresh Balsam,Candle,13.02,192,2499.84,4.6,Neutral,India,31-03-2024
+B0478,Kitchen Lemon,Hand Soap,20.55,161,3308.55,3.8,Positive,Canada,05-03-2024
+B0479,Dark Kiss,Shower Gel,29.55,16,472.8,4,Negative,Germany,14-01-2024
+B0480,Fresh Balsam,Candle,12.67,124,1571.08,5,Positive,Germany,10-03-2024
+B0481,Peach Bellini,Hand Soap,7.01,151,1058.51,3.1,Neutral,US,08-06-2024
+B0482,Ocean,Shower Gel,12.57,61,766.77,4.8,Positive,Germany,10-01-2024
+B0483,A Thousand Wishes,Mist,14.38,103,1481.14,4.6,Neutral,Australia,19-07-2024
+B0484,Peach Bellini,Hand Soap,13.55,98,1327.9,4.4,Positive,UK,05-05-2024
+B0485,Into the Night,Mist,27.83,181,5037.23,3.2,Positive,India,22-03-2024
+B0486,Warm Vanilla Sugar,Lotion,25.27,37,934.99,3.5,Positive,Canada,17-01-2024
+B0487,Ocean,Shower Gel,24.47,29,709.63,3,Positive,UK,25-07-2024
+B0488,Ocean,Shower Gel,8.91,170,1514.7,4.9,Negative,UK,10-06-2024
+B0489,Aromatherapy Eucalyptus,Lotion,8.05,190,1529.5,3.3,Negative,Canada,21-01-2024
+B0490,Aromatherapy Eucalyptus,Lotion,28.78,10,287.8,3.9,Positive,US,23-02-2024
+B0491,Japanese Cherry Blossom,Lotion,13.01,145,1886.45,3.4,Neutral,Australia,30-06-2024
+B0492,Sweet Pea,Shower Gel,9.65,83,800.95,4.5,Positive,Australia,16-01-2024
+B0493,Fresh Balsam,Candle,5.16,55,283.8,4.9,Positive,India,18-05-2024
+B0494,Fresh Balsam,Candle,8.1,29,234.9,3.4,Neutral,Canada,12-07-2024
+B0495,Champagne Toast,Candle,20.88,161,3361.68,3.6,Positive,UK,12-06-2024
+B0496,Champagne Toast,Candle,11.27,98,1104.46,4.5,Positive,Germany,16-06-2024
+B0497,Gingham Love,Mist,23.86,26,620.36,3.1,Positive,US,06-07-2024
+B0498,Dark Kiss,Shower Gel,7,193,1351,3.9,Negative,US,21-06-2024
+B0499,A Thousand Wishes,Mist,24.28,102,2476.56,4.4,Positive,India,17-01-2024
+B0500,A Thousand Wishes,Mist,25.99,125,3248.75,3.7,Neutral,Australia,04-04-2024
+B0501,Gingham Love,Mist,12.84,200,2568,3.4,Positive,Germany,11-01-2024
+B0502,Gingham Love,Mist,16.62,128,2127.36,3.6,Neutral,Australia,13-04-2024
+B0503,Crisp Morning Air,Hand Soap,8.82,198,1746.36,4.5,Positive,Canada,07-01-2024
+B0504,Gingham Love,Mist,29.74,171,5085.54,3.3,Positive,Germany,21-04-2024
+B0505,Mahogany Teakwood,Candle,19.82,57,1129.74,3.4,Positive,Canada,30-04-2024
+B0506,Gingham Love,Mist,9.94,137,1361.78,3.8,Positive,UK,20-05-2024
+B0507,Mahogany Teakwood,Candle,17.16,195,3346.2,4,Positive,Australia,10-02-2024
+B0508,Japanese Cherry Blossom,Lotion,29.04,27,784.08,4.9,Neutral,UK,04-06-2024
+B0509,Mahogany Teakwood,Candle,17.97,136,2443.92,4.6,Positive,UK,04-01-2024
+B0510,Champagne Toast,Candle,20.76,185,3840.6,4.2,Positive,Canada,02-06-2024
+B0511,Dark Kiss,Shower Gel,13.53,105,1420.65,4.6,Neutral,India,04-04-2024
+B0512,Kitchen Lemon,Hand Soap,5.44,104,565.76,3.8,Positive,Germany,24-03-2024
+B0513,Champagne Toast,Candle,20.85,131,2731.35,4.6,Positive,UK,27-05-2024
+B0514,Mahogany Teakwood,Candle,29.14,171,4982.94,4.1,Negative,India,30-06-2024
+B0515,Ocean,Shower Gel,25.33,73,1849.09,4,Positive,UK,05-01-2024
+B0516,Ocean,Shower Gel,14.6,47,686.2,4.2,Positive,Australia,05-05-2024
+B0517,Sweet Pea,Shower Gel,11.65,125,1456.25,3.8,Positive,UK,16-07-2024
+B0518,Champagne Toast,Candle,26.19,25,654.75,3.9,Positive,UK,01-01-2024
+B0519,A Thousand Wishes,Mist,17.06,47,801.82,4.6,Negative,UK,04-05-2024
+B0520,Sweet Pea,Shower Gel,10,175,1750,3.4,Negative,US,03-06-2024
+B0521,A Thousand Wishes,Mist,6.51,59,384.09,4,Positive,Australia,04-03-2024
+B0522,Peach Bellini,Hand Soap,25.46,12,305.52,3.6,Positive,US,16-03-2024
+B0523,Aromatherapy Eucalyptus,Lotion,21.1,117,2468.7,3.2,Positive,Australia,07-02-2024
+B0524,Peach Bellini,Hand Soap,8.92,123,1097.16,4.5,Positive,Australia,11-03-2024
+B0525,Into the Night,Mist,22.66,126,2855.16,3.6,Positive,US,23-03-2024
+B0526,Warm Vanilla Sugar,Lotion,26.69,151,4030.19,4,Positive,Australia,03-07-2024
+B0527,Ocean,Shower Gel,20.72,175,3626,3.6,Positive,US,05-06-2024
+B0528,Gingham Love,Mist,19.14,155,2966.7,3.1,Positive,Germany,04-07-2024
+B0529,Champagne Toast,Candle,6.6,27,178.2,3.3,Positive,Germany,11-02-2024
+B0530,Mahogany Teakwood,Candle,23.87,101,2410.87,3.7,Positive,US,11-07-2024
+B0531,Crisp Morning Air,Hand Soap,18.63,144,2682.72,3.8,Neutral,Canada,26-06-2024
+B0532,Ocean,Shower Gel,25.36,124,3144.64,3.3,Neutral,Canada,07-03-2024
+B0533,Mahogany Teakwood,Candle,21.12,152,3210.24,3,Positive,Canada,27-06-2024
+B0534,Kitchen Lemon,Hand Soap,6.05,69,417.45,4.9,Negative,India,05-02-2024
+B0535,Gingham Love,Mist,14.69,172,2526.68,4.3,Positive,UK,14-07-2024
+B0536,Kitchen Lemon,Hand Soap,21.74,188,4087.12,3.8,Positive,India,21-02-2024
+B0537,Warm Vanilla Sugar,Lotion,10.74,135,1449.9,3,Neutral,UK,28-05-2024
+B0538,Ocean,Shower Gel,14.93,48,716.64,4.1,Negative,India,09-07-2024
+B0539,Gingham Love,Mist,18.91,140,2647.4,3.8,Neutral,India,12-07-2024
+B0540,Gingham Love,Mist,9.89,76,751.64,3.8,Positive,US,25-04-2024
+B0541,Peach Bellini,Hand Soap,29.19,181,5283.39,4,Positive,US,17-02-2024
+B0542,Japanese Cherry Blossom,Lotion,25.12,200,5024,4.9,Positive,India,13-07-2024
+B0543,A Thousand Wishes,Mist,21.86,161,3519.46,4.6,Positive,Germany,14-01-2024
+B0544,Fresh Balsam,Candle,27.26,74,2017.24,3.4,Positive,Canada,04-01-2024
+B0545,Champagne Toast,Candle,10.16,194,1971.04,3.8,Positive,India,10-04-2024
+B0546,Champagne Toast,Candle,17,162,2754,3.6,Negative,US,04-03-2024
+B0547,Ocean,Shower Gel,27.11,17,460.87,4.2,Neutral,US,11-03-2024
+B0548,Gingham Love,Mist,14.54,155,2253.7,4.9,Positive,Canada,04-04-2024
+B0549,Champagne Toast,Candle,23.55,105,2472.75,3.2,Positive,UK,06-01-2024
+B0550,Warm Vanilla Sugar,Lotion,12.55,77,966.35,3.9,Negative,Canada,23-07-2024
+B0551,Aromatherapy Eucalyptus,Lotion,23.61,184,4344.24,4.6,Neutral,Canada,01-05-2024
+B0552,Warm Vanilla Sugar,Lotion,7.15,70,500.5,3.9,Neutral,India,26-06-2024
+B0553,Gingham Love,Mist,5.56,154,856.24,4,Neutral,Canada,09-02-2024
+B0554,Japanese Cherry Blossom,Lotion,21.95,17,373.15,3.1,Positive,Australia,29-04-2024
+B0555,Mahogany Teakwood,Candle,19.42,21,407.82,4.3,Negative,Germany,12-03-2024
+B0556,A Thousand Wishes,Mist,16.98,78,1324.44,3,Positive,Canada,18-02-2024
+B0557,Kitchen Lemon,Hand Soap,29.9,21,627.9,4.7,Neutral,India,21-04-2024
+B0558,Kitchen Lemon,Hand Soap,22.89,200,4578,3.1,Positive,UK,02-06-2024
+B0559,Crisp Morning Air,Hand Soap,18.61,105,1954.05,4.3,Positive,India,21-05-2024
+B0560,Champagne Toast,Candle,23.38,98,2291.24,3.8,Positive,Australia,05-04-2024
+B0561,Gingham Love,Mist,8.69,182,1581.58,4.5,Positive,Australia,18-05-2024
+B0562,Gingham Love,Mist,7.16,74,529.84,4.8,Positive,Germany,01-04-2024
+B0563,Crisp Morning Air,Hand Soap,23.84,184,4386.56,3.3,Positive,Germany,09-05-2024
+B0564,Fresh Balsam,Candle,13.54,171,2315.34,4.7,Positive,India,23-07-2024
+B0565,Mahogany Teakwood,Candle,25.62,111,2843.82,3.2,Positive,India,29-01-2024
+B0566,Ocean,Shower Gel,17.99,157,2824.43,3,Negative,Canada,19-06-2024
+B0567,Fresh Balsam,Candle,22.74,95,2160.3,4,Positive,UK,23-07-2024
+B0568,Dark Kiss,Shower Gel,18.08,110,1988.8,3.4,Positive,Germany,14-04-2024
+B0569,Warm Vanilla Sugar,Lotion,21.01,126,2647.26,3.3,Positive,Canada,11-07-2024
+B0570,Aromatherapy Eucalyptus,Lotion,25,136,3400,3.3,Positive,Canada,19-03-2024
+B0571,Crisp Morning Air,Hand Soap,25.63,148,3793.24,4.3,Negative,US,18-02-2024
+B0572,Warm Vanilla Sugar,Lotion,12.39,63,780.57,3.4,Neutral,US,19-01-2024
+B0573,Gingham Love,Mist,28.78,118,3396.04,4.9,Positive,Germany,03-01-2024
+B0574,Dark Kiss,Shower Gel,13.58,105,1425.9,3.4,Positive,Australia,30-05-2024
+B0575,Sweet Pea,Shower Gel,6.05,135,816.75,5,Positive,US,30-03-2024
+B0576,A Thousand Wishes,Mist,16.84,108,1818.72,4.5,Neutral,Germany,18-04-2024
+B0577,Sweet Pea,Shower Gel,27.02,185,4998.7,4,Positive,Australia,10-01-2024
+B0578,Japanese Cherry Blossom,Lotion,11.3,33,372.9,3.2,Neutral,Germany,02-07-2024
+B0579,Japanese Cherry Blossom,Lotion,14.5,96,1392,3.5,Negative,UK,09-01-2024
+B0580,A Thousand Wishes,Mist,24.43,125,3053.75,3.4,Positive,Germany,03-01-2024
+B0581,Fresh Balsam,Candle,26.57,17,451.69,4.9,Positive,Canada,08-05-2024
+B0582,Crisp Morning Air,Hand Soap,22.43,109,2444.87,4.6,Positive,US,04-07-2024
+B0583,A Thousand Wishes,Mist,7.94,142,1127.48,4,Negative,Canada,16-03-2024
+B0584,Japanese Cherry Blossom,Lotion,20.03,119,2383.57,3.2,Positive,Canada,20-01-2024
+B0585,Crisp Morning Air,Hand Soap,11.23,109,1224.07,4.6,Neutral,Australia,15-02-2024
+B0586,Japanese Cherry Blossom,Lotion,9.57,97,928.29,4.7,Positive,Canada,06-05-2024
+B0587,Peach Bellini,Hand Soap,28.7,39,1119.3,3.2,Positive,India,08-07-2024
+B0588,Ocean,Shower Gel,15.95,103,1642.85,4.6,Positive,India,30-06-2024
+B0589,A Thousand Wishes,Mist,18.59,117,2175.03,3.9,Positive,Germany,22-05-2024
+B0590,Kitchen Lemon,Hand Soap,6.63,77,510.51,4.8,Positive,Australia,01-05-2024
+B0591,Ocean,Shower Gel,27.67,45,1245.15,3.2,Positive,Canada,26-05-2024
+B0592,Champagne Toast,Candle,21.5,149,3203.5,3.7,Positive,Germany,18-01-2024
+B0593,Fresh Balsam,Candle,15.33,153,2345.49,3.1,Positive,Canada,17-03-2024
+B0594,Kitchen Lemon,Hand Soap,14.3,140,2002,4.6,Positive,UK,19-06-2024
+B0595,Sweet Pea,Shower Gel,5.22,45,234.9,3.6,Positive,Canada,02-05-2024
+B0596,Fresh Balsam,Candle,16.87,132,2226.84,3.4,Positive,Germany,21-05-2024
+B0597,Ocean,Shower Gel,8.65,42,363.3,4.7,Positive,US,13-07-2024
+B0598,Peach Bellini,Hand Soap,29.75,28,833,4.1,Positive,Australia,11-07-2024
+B0599,Into the Night,Mist,25.7,114,2929.8,3.1,Positive,Australia,23-03-2024
+B0600,Warm Vanilla Sugar,Lotion,21.79,105,2287.95,3.8,Positive,Germany,27-02-2024
+B0601,Champagne Toast,Candle,20.37,140,2851.8,4.8,Positive,Germany,12-07-2024
+B0602,Mahogany Teakwood,Candle,19.97,83,1657.51,4,Positive,US,02-06-2024
+B0603,Kitchen Lemon,Hand Soap,19.04,190,3617.6,4.8,Positive,US,13-06-2024
+B0604,Gingham Love,Mist,14.83,128,1898.24,4.3,Negative,UK,28-03-2024
+B0605,Sweet Pea,Shower Gel,13.18,88,1159.84,4.7,Positive,Australia,04-05-2024
+B0606,Sweet Pea,Shower Gel,19,184,3496,4.2,Positive,Canada,26-05-2024
+B0607,Crisp Morning Air,Hand Soap,7.27,135,981.45,5,Positive,Germany,06-06-2024
+B0608,Japanese Cherry Blossom,Lotion,20.73,79,1637.67,4.7,Positive,UK,28-02-2024
+B0609,Into the Night,Mist,19.15,99,1895.85,4.9,Positive,India,26-03-2024
+B0610,Crisp Morning Air,Hand Soap,11.6,118,1368.8,4.3,Positive,Canada,05-06-2024
+B0611,Into the Night,Mist,22.18,102,2262.36,4.4,Positive,Australia,22-02-2024
+B0612,Sweet Pea,Shower Gel,9.34,195,1821.3,4.4,Positive,Canada,04-03-2024
+B0613,Sweet Pea,Shower Gel,25.76,56,1442.56,4.8,Neutral,Canada,05-04-2024
+B0614,Crisp Morning Air,Hand Soap,22.93,155,3554.15,3.9,Positive,India,06-03-2024
+B0615,Japanese Cherry Blossom,Lotion,8.11,106,859.66,4.6,Negative,US,01-01-2024
+B0616,Champagne Toast,Candle,28.2,126,3553.2,4.9,Positive,UK,29-07-2024
+B0617,Sweet Pea,Shower Gel,15.51,78,1209.78,3.1,Positive,India,05-05-2024
+B0618,Japanese Cherry Blossom,Lotion,15.93,90,1433.7,3.2,Positive,US,02-04-2024
+B0619,Warm Vanilla Sugar,Lotion,11.93,150,1789.5,4.1,Positive,Germany,25-01-2024
+B0620,Kitchen Lemon,Hand Soap,6,179,1074,4.1,Positive,India,27-03-2024
+B0621,Gingham Love,Mist,15.75,69,1086.75,3.4,Positive,UK,11-07-2024
+B0622,Dark Kiss,Shower Gel,26.02,48,1248.96,3,Positive,Canada,14-07-2024
+B0623,Champagne Toast,Candle,10.08,167,1683.36,3,Positive,Germany,26-05-2024
+B0624,Dark Kiss,Shower Gel,25.24,41,1034.84,3.2,Neutral,Canada,26-02-2024
+B0625,Peach Bellini,Hand Soap,9.14,54,493.56,4.8,Positive,Canada,01-01-2024
+B0626,Gingham Love,Mist,19.49,163,3176.87,4.7,Positive,US,29-02-2024
+B0627,Japanese Cherry Blossom,Lotion,22.81,123,2805.63,3.3,Neutral,Australia,06-06-2024
+B0628,Aromatherapy Eucalyptus,Lotion,24.13,62,1496.06,4.8,Positive,India,21-07-2024
+B0629,Gingham Love,Mist,5.52,139,767.28,4.2,Neutral,Canada,04-06-2024
+B0630,Into the Night,Mist,22.59,163,3682.17,4.7,Positive,Australia,13-02-2024
+B0631,Mahogany Teakwood,Candle,12.86,113,1453.18,3.5,Neutral,Australia,29-02-2024
+B0632,Dark Kiss,Shower Gel,29.02,185,5368.7,4.9,Positive,US,27-06-2024
+B0633,Peach Bellini,Hand Soap,25,109,2725,4.1,Positive,Australia,06-01-2024
+B0634,Peach Bellini,Hand Soap,16.13,118,1903.34,3.2,Positive,UK,28-02-2024
+B0635,Gingham Love,Mist,16.96,53,898.88,3.4,Positive,India,12-05-2024
+B0636,Ocean,Shower Gel,26.15,107,2798.05,3.7,Neutral,Germany,24-01-2024
+B0637,Mahogany Teakwood,Candle,20.39,151,3078.89,3.1,Positive,Australia,06-03-2024
+B0638,Champagne Toast,Candle,8.54,121,1033.34,3.6,Negative,Australia,28-02-2024
+B0639,Into the Night,Mist,18.01,69,1242.69,4.7,Positive,Germany,26-05-2024
+B0640,Champagne Toast,Candle,18.7,118,2206.6,4.8,Positive,Canada,25-07-2024
+B0641,Sweet Pea,Shower Gel,6.93,35,242.55,3.5,Neutral,US,16-05-2024
+B0642,Peach Bellini,Hand Soap,24.02,195,4683.9,3.4,Positive,Canada,17-02-2024
+B0643,Japanese Cherry Blossom,Lotion,26.39,79,2084.81,4,Positive,US,09-05-2024
+B0644,Kitchen Lemon,Hand Soap,9.18,130,1193.4,3.3,Positive,UK,04-06-2024
+B0645,Dark Kiss,Shower Gel,16.56,126,2086.56,3.4,Positive,Canada,04-03-2024
+B0646,Ocean,Shower Gel,6.68,106,708.08,3.3,Positive,Australia,15-05-2024
+B0647,Peach Bellini,Hand Soap,18.54,113,2095.02,4.8,Positive,India,14-06-2024
+B0648,A Thousand Wishes,Mist,19.44,113,2196.72,4.5,Positive,Canada,14-04-2024
+B0649,Dark Kiss,Shower Gel,8.16,19,155.04,3.4,Positive,UK,04-04-2024
+B0650,Aromatherapy Eucalyptus,Lotion,27.6,107,2953.2,3.8,Positive,Australia,21-03-2024
+B0651,Mahogany Teakwood,Candle,10.39,173,1797.47,4.5,Positive,Germany,31-05-2024
+B0652,Fresh Balsam,Candle,24.84,111,2757.24,3.5,Positive,Australia,28-02-2024
+B0653,Gingham Love,Mist,14.98,192,2876.16,3.9,Neutral,Canada,28-04-2024
+B0654,Kitchen Lemon,Hand Soap,11.13,47,523.11,4.8,Negative,UK,16-03-2024
+B0655,Japanese Cherry Blossom,Lotion,16.63,108,1796.04,4.8,Neutral,India,20-01-2024
+B0656,Gingham Love,Mist,25.53,151,3855.03,4,Negative,US,02-05-2024
+B0657,Gingham Love,Mist,9.84,139,1367.76,3.3,Negative,Germany,07-02-2024
+B0658,Dark Kiss,Shower Gel,6.5,140,910,3.4,Positive,Australia,07-01-2024
+B0659,Crisp Morning Air,Hand Soap,24.96,127,3169.92,3.7,Positive,US,04-04-2024
+B0660,Sweet Pea,Shower Gel,8.08,122,985.76,4.5,Positive,US,11-05-2024
+B0661,Sweet Pea,Shower Gel,23.72,139,3297.08,3.1,Negative,UK,06-04-2024
+B0662,Peach Bellini,Hand Soap,23.06,78,1798.68,3.3,Neutral,US,20-02-2024
+B0663,Dark Kiss,Shower Gel,11.89,66,784.74,3.1,Positive,Canada,04-02-2024
+B0664,Peach Bellini,Hand Soap,9.84,48,472.32,3.9,Positive,US,23-02-2024
+B0665,Warm Vanilla Sugar,Lotion,26.47,77,2038.19,4.5,Neutral,Australia,26-02-2024
+B0666,Fresh Balsam,Candle,17.34,30,520.2,4.3,Neutral,India,28-03-2024
+B0667,Gingham Love,Mist,28.89,76,2195.64,4.2,Positive,Germany,27-07-2024
+B0668,A Thousand Wishes,Mist,21.62,144,3113.28,3.3,Positive,India,02-07-2024
+B0669,Sweet Pea,Shower Gel,11.97,162,1939.14,4.6,Positive,US,27-07-2024
+B0670,Crisp Morning Air,Hand Soap,11.8,140,1652,3.6,Negative,US,13-04-2024
+B0671,Dark Kiss,Shower Gel,25.04,75,1878,3.2,Positive,Canada,27-02-2024
+B0672,Champagne Toast,Candle,27.63,35,967.05,4.4,Positive,Germany,15-04-2024
+B0673,Crisp Morning Air,Hand Soap,19.16,86,1647.76,3.2,Positive,Germany,03-05-2024
+B0674,Japanese Cherry Blossom,Lotion,28.15,24,675.6,3.9,Neutral,Australia,09-02-2024
+B0675,Kitchen Lemon,Hand Soap,13.34,104,1387.36,3.2,Positive,Australia,05-05-2024
+B0676,Ocean,Shower Gel,15.13,70,1059.1,3.6,Positive,UK,12-02-2024
+B0677,Fresh Balsam,Candle,13.18,106,1397.08,4.7,Positive,Germany,22-01-2024
+B0678,Warm Vanilla Sugar,Lotion,18.51,136,2517.36,4.8,Negative,Germany,22-07-2024
+B0679,Mahogany Teakwood,Candle,5.05,55,277.75,3.1,Positive,Germany,03-04-2024
+B0680,A Thousand Wishes,Mist,19.3,20,386,3.3,Positive,US,26-01-2024
+B0681,Ocean,Shower Gel,29.7,167,4959.9,3,Negative,Canada,21-07-2024
+B0682,Crisp Morning Air,Hand Soap,7.69,161,1238.09,3.6,Neutral,India,19-01-2024
+B0683,Into the Night,Mist,6.62,165,1092.3,4.7,Positive,Germany,17-07-2024
+B0684,Ocean,Shower Gel,17.41,67,1166.47,4.4,Positive,Germany,27-03-2024
+B0685,Fresh Balsam,Candle,16.82,125,2102.5,3.7,Positive,Germany,16-03-2024
+B0686,Crisp Morning Air,Hand Soap,25.17,70,1761.9,4.6,Neutral,UK,19-06-2024
+B0687,Mahogany Teakwood,Candle,16.53,190,3140.7,3.3,Positive,US,30-05-2024
+B0688,Mahogany Teakwood,Candle,29.96,42,1258.32,3.3,Positive,UK,16-07-2024
+B0689,A Thousand Wishes,Mist,10.98,133,1460.34,3.9,Positive,Germany,13-06-2024
+B0690,Sweet Pea,Shower Gel,19.69,191,3760.79,3.4,Positive,UK,09-01-2024
+B0691,Champagne Toast,Candle,9.79,26,254.54,3.1,Neutral,UK,24-07-2024
+B0692,Kitchen Lemon,Hand Soap,25.31,128,3239.68,4.3,Positive,UK,30-06-2024
+B0693,Kitchen Lemon,Hand Soap,25.39,200,5078,4.9,Positive,India,21-03-2024
+B0694,Mahogany Teakwood,Candle,26.73,52,1389.96,4.9,Positive,UK,04-05-2024
+B0695,Mahogany Teakwood,Candle,27.11,71,1924.81,4,Positive,Canada,12-03-2024
+B0696,Champagne Toast,Candle,5.96,12,71.52,4.3,Neutral,India,23-07-2024
+B0697,Gingham Love,Mist,5.07,133,674.31,4.5,Negative,Canada,21-02-2024
+B0698,Champagne Toast,Candle,22.01,198,4357.98,4.5,Positive,India,10-04-2024
+B0699,Sweet Pea,Shower Gel,28.16,60,1689.6,3.9,Negative,US,23-07-2024
+B0700,Peach Bellini,Hand Soap,19.77,84,1660.68,4.1,Neutral,UK,12-01-2024
+B0701,Into the Night,Mist,15.18,170,2580.6,4.9,Positive,Australia,16-04-2024
+B0702,Sweet Pea,Shower Gel,10.77,90,969.3,4.7,Positive,UK,08-03-2024
+B0703,Warm Vanilla Sugar,Lotion,21.71,158,3430.18,3.5,Positive,Canada,15-05-2024
+B0704,Warm Vanilla Sugar,Lotion,28.8,125,3600,3.5,Positive,US,13-01-2024
+B0705,A Thousand Wishes,Mist,25.36,149,3778.64,4.9,Positive,Germany,06-07-2024
+B0706,A Thousand Wishes,Mist,21.58,137,2956.46,5,Positive,India,18-06-2024
+B0707,Into the Night,Mist,26.38,109,2875.42,4.1,Positive,Germany,19-05-2024
+B0708,Mahogany Teakwood,Candle,22.13,30,663.9,3.7,Positive,US,02-05-2024
+B0709,Warm Vanilla Sugar,Lotion,28.28,197,5571.16,3.5,Positive,UK,20-06-2024
+B0710,Kitchen Lemon,Hand Soap,27.65,62,1714.3,4.5,Positive,UK,14-07-2024
+B0711,A Thousand Wishes,Mist,22.29,173,3856.17,3.1,Negative,US,01-02-2024
+B0712,Mahogany Teakwood,Candle,24.47,79,1933.13,4.9,Positive,UK,25-04-2024
+B0713,Aromatherapy Eucalyptus,Lotion,24.15,146,3525.9,3.9,Positive,India,20-06-2024
+B0714,Into the Night,Mist,13.91,33,459.03,3.7,Positive,India,18-02-2024
+B0715,A Thousand Wishes,Mist,5.46,168,917.28,4.6,Neutral,US,23-01-2024
+B0716,Mahogany Teakwood,Candle,13.55,143,1937.65,4.6,Positive,Germany,02-05-2024
+B0717,Into the Night,Mist,13.5,109,1471.5,4.6,Positive,India,25-07-2024
+B0718,Kitchen Lemon,Hand Soap,9.19,168,1543.92,4.3,Neutral,Germany,10-07-2024
+B0719,Aromatherapy Eucalyptus,Lotion,10.67,178,1899.26,4.9,Neutral,Australia,22-05-2024
+B0720,Crisp Morning Air,Hand Soap,21.06,60,1263.6,4.8,Positive,US,18-02-2024
+B0721,Dark Kiss,Shower Gel,5.43,180,977.4,4.9,Positive,Germany,16-04-2024
+B0722,Japanese Cherry Blossom,Lotion,26.55,31,823.05,3.3,Positive,India,13-05-2024
+B0723,Aromatherapy Eucalyptus,Lotion,8.39,136,1141.04,4.1,Positive,UK,13-07-2024
+B0724,Aromatherapy Eucalyptus,Lotion,25.27,173,4371.71,3.6,Positive,Australia,29-07-2024
+B0725,Into the Night,Mist,26.47,24,635.28,4.9,Positive,Germany,05-02-2024
+B0726,Gingham Love,Mist,29.98,81,2428.38,3.7,Positive,India,20-01-2024
+B0727,Into the Night,Mist,17.46,199,3474.54,3.6,Positive,UK,13-03-2024
+B0728,Fresh Balsam,Candle,7.33,45,329.85,4.9,Positive,UK,26-01-2024
+B0729,Warm Vanilla Sugar,Lotion,29.37,95,2790.15,3.6,Positive,Canada,27-05-2024
+B0730,Ocean,Shower Gel,10.79,80,863.2,3.6,Neutral,India,12-07-2024
+B0731,Aromatherapy Eucalyptus,Lotion,18.72,157,2939.04,4.7,Positive,Germany,21-05-2024
+B0732,Into the Night,Mist,27.38,20,547.6,3.6,Neutral,Germany,24-01-2024
+B0733,Gingham Love,Mist,23.53,45,1058.85,3.1,Negative,US,30-05-2024
+B0734,Japanese Cherry Blossom,Lotion,6.06,102,618.12,3.8,Positive,India,10-02-2024
+B0735,Ocean,Shower Gel,7.05,53,373.65,3.4,Negative,US,28-06-2024
+B0736,Japanese Cherry Blossom,Lotion,10.46,191,1997.86,3.3,Neutral,Germany,29-07-2024
+B0737,Ocean,Shower Gel,29.74,11,327.14,4.4,Neutral,Germany,27-05-2024
+B0738,Champagne Toast,Candle,18.69,25,467.25,3.9,Positive,Canada,09-04-2024
+B0739,Dark Kiss,Shower Gel,13.61,113,1537.93,4.9,Positive,UK,28-05-2024
+B0740,Into the Night,Mist,20.41,41,836.81,4.4,Positive,Australia,03-06-2024
+B0741,Warm Vanilla Sugar,Lotion,15.14,58,878.12,4.5,Positive,Canada,27-05-2024
+B0742,Ocean,Shower Gel,29.18,73,2130.14,3.3,Positive,Germany,04-03-2024
+B0743,Aromatherapy Eucalyptus,Lotion,6.8,111,754.8,3.3,Positive,India,29-01-2024
+B0744,Aromatherapy Eucalyptus,Lotion,10.26,38,389.88,4.7,Positive,UK,28-01-2024
+B0745,Champagne Toast,Candle,8.61,195,1678.95,4.3,Positive,UK,04-04-2024
+B0746,Crisp Morning Air,Hand Soap,21.49,184,3954.16,3.6,Positive,Canada,11-06-2024
+B0747,Champagne Toast,Candle,13.83,180,2489.4,4.7,Positive,Australia,05-05-2024
+B0748,Gingham Love,Mist,6.22,10,62.2,3.9,Positive,US,19-07-2024
+B0749,Peach Bellini,Hand Soap,12.23,115,1406.45,3.2,Positive,UK,13-03-2024
+B0750,Champagne Toast,Candle,24.23,131,3174.13,4.6,Positive,Australia,30-05-2024
+B0751,Gingham Love,Mist,21.11,125,2638.75,3.4,Neutral,Australia,02-05-2024
+B0752,Into the Night,Mist,17.01,122,2075.22,4.8,Positive,Germany,01-03-2024
+B0753,Crisp Morning Air,Hand Soap,10.47,151,1580.97,4,Negative,UK,29-01-2024
+B0754,A Thousand Wishes,Mist,11.37,35,397.95,3.5,Positive,UK,23-07-2024
+B0755,Kitchen Lemon,Hand Soap,6.57,37,243.09,3.5,Positive,Canada,26-07-2024
+B0756,Sweet Pea,Shower Gel,19.36,145,2807.2,4.8,Positive,US,15-05-2024
+B0757,Mahogany Teakwood,Candle,13.18,186,2451.48,4.5,Positive,US,28-03-2024
+B0758,Kitchen Lemon,Hand Soap,9.68,197,1906.96,3.6,Neutral,Germany,05-03-2024
+B0759,A Thousand Wishes,Mist,9.99,112,1118.88,4.3,Negative,India,24-05-2024
+B0760,Into the Night,Mist,14.5,169,2450.5,3.4,Positive,UK,12-01-2024
+B0761,Gingham Love,Mist,23.97,146,3499.62,3.7,Positive,US,23-05-2024
+B0762,Warm Vanilla Sugar,Lotion,19.13,45,860.85,3.5,Neutral,Australia,22-02-2024
+B0763,Peach Bellini,Hand Soap,29.9,28,837.2,3.2,Negative,Australia,20-05-2024
+B0764,Mahogany Teakwood,Candle,23.45,65,1524.25,3.7,Positive,India,03-01-2024
+B0765,Kitchen Lemon,Hand Soap,29.78,174,5181.72,4.2,Positive,US,23-02-2024
+B0766,Into the Night,Mist,20.29,33,669.57,4.6,Neutral,Germany,17-05-2024
+B0767,Mahogany Teakwood,Candle,16.9,80,1352,4.1,Positive,Germany,27-06-2024
+B0768,Japanese Cherry Blossom,Lotion,25.43,65,1652.95,4.6,Neutral,US,26-01-2024
+B0769,Sweet Pea,Shower Gel,10.73,157,1684.61,3.6,Positive,UK,30-03-2024
+B0770,Peach Bellini,Hand Soap,22.4,16,358.4,4.5,Negative,US,26-05-2024
+B0771,Into the Night,Mist,9.3,50,465,3.5,Positive,Canada,15-02-2024
+B0772,Mahogany Teakwood,Candle,8.32,127,1056.64,3.1,Positive,Canada,07-06-2024
+B0773,Warm Vanilla Sugar,Lotion,23.14,195,4512.3,3.4,Positive,UK,13-07-2024
+B0774,Kitchen Lemon,Hand Soap,22.2,50,1110,3.9,Positive,US,05-04-2024
+B0775,Ocean,Shower Gel,22.11,117,2586.87,3.2,Neutral,US,24-02-2024
+B0776,Champagne Toast,Candle,7.71,68,524.28,4.4,Positive,India,01-07-2024
+B0777,Sweet Pea,Shower Gel,18.27,161,2941.47,4.8,Negative,Australia,25-03-2024
+B0778,Fresh Balsam,Candle,18.32,155,2839.6,3.4,Positive,India,14-02-2024
+B0779,Crisp Morning Air,Hand Soap,12.89,165,2126.85,3.4,Neutral,US,16-07-2024
+B0780,Champagne Toast,Candle,12.39,147,1821.33,3.9,Positive,US,28-05-2024
+B0781,Mahogany Teakwood,Candle,10.74,189,2029.86,4.1,Neutral,Australia,23-05-2024
+B0782,Peach Bellini,Hand Soap,19.52,198,3864.96,4.6,Positive,India,16-02-2024
+B0783,Mahogany Teakwood,Candle,11.01,22,242.22,4,Positive,Canada,19-01-2024
+B0784,Sweet Pea,Shower Gel,7.09,144,1020.96,4.1,Positive,India,26-03-2024
+B0785,Mahogany Teakwood,Candle,6.1,135,823.5,4.7,Positive,Canada,24-07-2024
+B0786,Aromatherapy Eucalyptus,Lotion,8.7,123,1070.1,3.1,Neutral,US,19-05-2024
+B0787,Gingham Love,Mist,9.12,80,729.6,5,Positive,US,09-01-2024
+B0788,Aromatherapy Eucalyptus,Lotion,22.27,195,4342.65,3.1,Positive,Germany,12-07-2024
+B0789,Ocean,Shower Gel,7.07,58,410.06,4,Neutral,India,22-04-2024
+B0790,Into the Night,Mist,24.69,164,4049.16,3.1,Positive,UK,31-03-2024
+B0791,Peach Bellini,Hand Soap,7.88,139,1095.32,4.3,Neutral,Canada,07-03-2024
+B0792,Aromatherapy Eucalyptus,Lotion,25.32,163,4127.16,4.3,Positive,Australia,14-03-2024
+B0793,Ocean,Shower Gel,8.76,83,727.08,4,Neutral,Australia,21-03-2024
+B0794,Kitchen Lemon,Hand Soap,17.68,129,2280.72,3.1,Positive,Germany,01-01-2024
+B0795,Into the Night,Mist,14.45,172,2485.4,3.7,Positive,UK,12-05-2024
+B0796,Ocean,Shower Gel,15.13,154,2330.02,3.2,Positive,UK,23-07-2024
+B0797,Ocean,Shower Gel,29.77,104,3096.08,4.3,Positive,Canada,29-07-2024
+B0798,Dark Kiss,Shower Gel,23.24,151,3509.24,4.4,Positive,Australia,14-01-2024
+B0799,Mahogany Teakwood,Candle,15.25,167,2546.75,4.1,Positive,US,20-07-2024
+B0800,Sweet Pea,Shower Gel,28.83,144,4151.52,3.4,Positive,US,09-03-2024
+B0801,Japanese Cherry Blossom,Lotion,11.32,145,1641.4,3.2,Positive,Germany,15-05-2024
+B0802,Japanese Cherry Blossom,Lotion,20.64,76,1568.64,4.9,Positive,Australia,20-05-2024
+B0803,Kitchen Lemon,Hand Soap,17.89,106,1896.34,4.4,Positive,US,14-06-2024
+B0804,Crisp Morning Air,Hand Soap,11.06,182,2012.92,3.1,Positive,Germany,07-06-2024
+B0805,A Thousand Wishes,Mist,9.27,156,1446.12,4.3,Positive,Australia,19-03-2024
+B0806,Into the Night,Mist,5.52,117,645.84,4.5,Positive,Germany,03-07-2024
+B0807,Dark Kiss,Shower Gel,10.35,89,921.15,4.9,Positive,US,28-04-2024
+B0808,Crisp Morning Air,Hand Soap,28.64,171,4897.44,3.8,Positive,UK,11-07-2024
+B0809,Into the Night,Mist,9.66,68,656.88,4.4,Positive,Germany,19-05-2024
+B0810,Champagne Toast,Candle,9.79,196,1918.84,3,Positive,UK,06-04-2024
+B0811,Crisp Morning Air,Hand Soap,26.58,141,3747.78,4.2,Neutral,US,09-05-2024
+B0812,Fresh Balsam,Candle,7.72,71,548.12,4.1,Positive,UK,15-02-2024
+B0813,A Thousand Wishes,Mist,29.31,129,3780.99,4.2,Positive,Germany,21-06-2024
+B0814,Into the Night,Mist,12.24,173,2117.52,3.1,Neutral,Canada,02-03-2024
+B0815,Mahogany Teakwood,Candle,29.24,100,2924,3.4,Positive,UK,30-05-2024
+B0816,Japanese Cherry Blossom,Lotion,23.21,46,1067.66,4.6,Positive,India,01-07-2024
+B0817,Peach Bellini,Hand Soap,16.66,41,683.06,4.1,Positive,Canada,20-02-2024
+B0818,Ocean,Shower Gel,20.77,60,1246.2,4,Positive,UK,13-06-2024
+B0819,Mahogany Teakwood,Candle,27.06,18,487.08,4.4,Negative,India,11-07-2024
+B0820,Dark Kiss,Shower Gel,23.96,93,2228.28,5,Positive,Australia,08-05-2024
+B0821,Sweet Pea,Shower Gel,26.6,12,319.2,3,Positive,US,29-07-2024
+B0822,Aromatherapy Eucalyptus,Lotion,7.67,116,889.72,3.2,Positive,India,01-06-2024
+B0823,Warm Vanilla Sugar,Lotion,22.21,95,2109.95,3.9,Neutral,Germany,08-03-2024
+B0824,A Thousand Wishes,Mist,7.99,195,1558.05,4.8,Negative,Germany,07-06-2024
+B0825,Champagne Toast,Candle,14.2,98,1391.6,3.3,Positive,India,20-03-2024
+B0826,Warm Vanilla Sugar,Lotion,26.77,173,4631.21,4.5,Positive,UK,18-05-2024
+B0827,Mahogany Teakwood,Candle,14.93,132,1970.76,3.7,Positive,Australia,05-02-2024
+B0828,Mahogany Teakwood,Candle,25.37,50,1268.5,4.9,Positive,Canada,09-05-2024
+B0829,Warm Vanilla Sugar,Lotion,16.28,95,1546.6,3.7,Positive,US,06-03-2024
+B0830,Into the Night,Mist,17.99,114,2050.86,4.9,Positive,Germany,03-04-2024
+B0831,Japanese Cherry Blossom,Lotion,10.94,111,1214.34,3.9,Negative,US,09-07-2024
+B0832,Sweet Pea,Shower Gel,7.4,42,310.8,3.9,Neutral,Canada,11-01-2024
+B0833,Aromatherapy Eucalyptus,Lotion,27.12,102,2766.24,3.8,Neutral,US,23-01-2024
+B0834,Kitchen Lemon,Hand Soap,22.12,28,619.36,3.6,Neutral,Canada,26-01-2024
+B0835,Champagne Toast,Candle,27.44,101,2771.44,3.1,Positive,Canada,20-05-2024
+B0836,Peach Bellini,Hand Soap,7.72,170,1312.4,4.7,Positive,Germany,23-05-2024
+B0837,Fresh Balsam,Candle,10.27,144,1478.88,4.7,Positive,US,11-01-2024
+B0838,Champagne Toast,Candle,27.41,11,301.51,4.6,Negative,Canada,18-07-2024
+B0839,Gingham Love,Mist,10.94,180,1969.2,4.8,Neutral,Canada,15-05-2024
+B0840,Kitchen Lemon,Hand Soap,10.3,175,1802.5,3.7,Neutral,US,14-01-2024
+B0841,Gingham Love,Mist,22.28,14,311.92,4.2,Positive,India,04-04-2024
+B0842,Sweet Pea,Shower Gel,6.62,84,556.08,3.6,Positive,Germany,05-01-2024
+B0843,Crisp Morning Air,Hand Soap,19.57,52,1017.64,3.8,Positive,India,26-05-2024
+B0844,Peach Bellini,Hand Soap,19.32,106,2047.92,4.7,Positive,Germany,21-05-2024
+B0845,Sweet Pea,Shower Gel,23.65,183,4327.95,4.4,Negative,US,26-04-2024
+B0846,Dark Kiss,Shower Gel,8.63,103,888.89,4.2,Positive,Canada,25-05-2024
+B0847,Champagne Toast,Candle,19.13,85,1626.05,3,Positive,India,20-03-2024
+B0848,Ocean,Shower Gel,28.83,58,1672.14,3.2,Neutral,Canada,25-07-2024
+B0849,Into the Night,Mist,24.41,120,2929.2,3.8,Positive,Australia,15-01-2024
+B0850,Sweet Pea,Shower Gel,5.57,152,846.64,3.9,Positive,Australia,31-01-2024
+B0851,Kitchen Lemon,Hand Soap,21.05,54,1136.7,4.5,Positive,Canada,04-07-2024
+B0852,Sweet Pea,Shower Gel,10.51,181,1902.31,4.3,Negative,Canada,15-06-2024
+B0853,Ocean,Shower Gel,21.43,153,3278.79,4.5,Neutral,US,13-03-2024
+B0854,Gingham Love,Mist,27.18,40,1087.2,5,Negative,India,24-05-2024
+B0855,Crisp Morning Air,Hand Soap,5.75,47,270.25,3.8,Neutral,Germany,19-05-2024
+B0856,Champagne Toast,Candle,21.52,33,710.16,4.6,Positive,UK,06-04-2024
+B0857,Peach Bellini,Hand Soap,6.82,65,443.3,3,Positive,US,19-04-2024
+B0858,Mahogany Teakwood,Candle,25.18,90,2266.2,4.1,Negative,US,11-07-2024
+B0859,Into the Night,Mist,24.43,112,2736.16,4.1,Positive,UK,22-07-2024
+B0860,Dark Kiss,Shower Gel,20.65,20,413,4.7,Neutral,Australia,12-02-2024
+B0861,Mahogany Teakwood,Candle,5.16,141,727.56,3.9,Positive,US,09-04-2024
+B0862,Warm Vanilla Sugar,Lotion,25.84,109,2816.56,4,Positive,Canada,20-06-2024
+B0863,Dark Kiss,Shower Gel,25.59,16,409.44,3.1,Positive,US,15-05-2024
+B0864,Sweet Pea,Shower Gel,11.98,85,1018.3,4.3,Positive,UK,07-07-2024
+B0865,Japanese Cherry Blossom,Lotion,15.19,55,835.45,4.7,Positive,Australia,29-05-2024
+B0866,Peach Bellini,Hand Soap,8.59,196,1683.64,3.7,Positive,US,10-03-2024
+B0867,Crisp Morning Air,Hand Soap,16.07,82,1317.74,3.8,Positive,Canada,24-04-2024
+B0868,Crisp Morning Air,Hand Soap,21.78,162,3528.36,3.3,Positive,US,23-07-2024
+B0869,Peach Bellini,Hand Soap,20.63,131,2702.53,4.8,Negative,India,11-02-2024
+B0870,Ocean,Shower Gel,24.23,77,1865.71,3,Negative,India,21-06-2024
+B0871,Into the Night,Mist,29.26,60,1755.6,3.4,Positive,UK,03-02-2024
+B0872,A Thousand Wishes,Mist,28.27,61,1724.47,3.7,Negative,Australia,28-01-2024
+B0873,Ocean,Shower Gel,16.61,62,1029.82,4.7,Neutral,Germany,12-02-2024
+B0874,Warm Vanilla Sugar,Lotion,20.07,10,200.7,3.8,Positive,Canada,18-04-2024
+B0875,Sweet Pea,Shower Gel,12.94,129,1669.26,4,Positive,Australia,29-03-2024
+B0876,Warm Vanilla Sugar,Lotion,10.46,29,303.34,4.8,Positive,UK,19-03-2024
+B0877,Ocean,Shower Gel,23.15,53,1226.95,4.7,Positive,Australia,06-02-2024
+B0878,A Thousand Wishes,Mist,6.08,34,206.72,3.9,Positive,Canada,14-01-2024
+B0879,Kitchen Lemon,Hand Soap,22.05,36,793.8,3.8,Positive,Australia,06-02-2024
+B0880,Peach Bellini,Hand Soap,17.83,57,1016.31,3.2,Neutral,US,12-06-2024
+B0881,Peach Bellini,Hand Soap,18.41,56,1030.96,3.2,Positive,Australia,12-05-2024
+B0882,Fresh Balsam,Candle,18.65,198,3692.7,4.7,Neutral,India,24-06-2024
+B0883,Kitchen Lemon,Hand Soap,23.95,69,1652.55,4.7,Positive,India,30-01-2024
+B0884,Fresh Balsam,Candle,22.04,91,2005.64,3.8,Positive,Australia,26-05-2024
+B0885,Japanese Cherry Blossom,Lotion,24.64,160,3942.4,4.1,Positive,Germany,13-04-2024
+B0886,Japanese Cherry Blossom,Lotion,16.96,25,424,3.8,Negative,Australia,01-03-2024
+B0887,Ocean,Shower Gel,26.5,13,344.5,3.7,Positive,Canada,18-05-2024
+B0888,Aromatherapy Eucalyptus,Lotion,26.02,56,1457.12,3.4,Positive,Canada,21-06-2024
+B0889,Japanese Cherry Blossom,Lotion,21.97,178,3910.66,3.7,Neutral,Australia,18-05-2024
+B0890,Aromatherapy Eucalyptus,Lotion,11.62,155,1801.1,3.3,Positive,Canada,15-06-2024
+B0891,Aromatherapy Eucalyptus,Lotion,8.47,155,1312.85,3.8,Positive,US,01-06-2024
+B0892,Sweet Pea,Shower Gel,18.36,184,3378.24,3.5,Positive,India,04-06-2024
+B0893,A Thousand Wishes,Mist,26.7,50,1335,3.3,Negative,US,25-03-2024
+B0894,Sweet Pea,Shower Gel,23.24,179,4159.96,4.7,Positive,India,03-07-2024
+B0895,A Thousand Wishes,Mist,29.23,175,5115.25,3.3,Neutral,Germany,27-03-2024
+B0896,Sweet Pea,Shower Gel,18.84,26,489.84,4.3,Positive,Germany,25-04-2024
+B0897,Sweet Pea,Shower Gel,16.45,19,312.55,4.4,Positive,Canada,01-04-2024
+B0898,Fresh Balsam,Candle,15.04,109,1639.36,4,Positive,Canada,17-06-2024
+B0899,Aromatherapy Eucalyptus,Lotion,16.3,107,1744.1,4.6,Negative,Germany,17-01-2024
+B0900,Crisp Morning Air,Hand Soap,20.26,136,2755.36,3.8,Positive,India,08-06-2024
+B0901,Peach Bellini,Hand Soap,17.43,49,854.07,4.7,Positive,India,12-05-2024
+B0902,Champagne Toast,Candle,29.85,19,567.15,4.6,Positive,India,23-06-2024
+B0903,Japanese Cherry Blossom,Lotion,21.09,184,3880.56,4.3,Positive,Germany,14-01-2024
+B0904,Into the Night,Mist,21.59,102,2202.18,4.5,Positive,India,05-07-2024
+B0905,A Thousand Wishes,Mist,16.42,19,311.98,3.1,Positive,India,12-03-2024
+B0906,Fresh Balsam,Candle,13.57,105,1424.85,3.5,Positive,Australia,14-05-2024
+B0907,Peach Bellini,Hand Soap,14.85,45,668.25,3.7,Neutral,Canada,16-03-2024
+B0908,Fresh Balsam,Candle,28.79,184,5297.36,4.1,Positive,Australia,09-03-2024
+B0909,Mahogany Teakwood,Candle,18.65,156,2909.4,4.9,Positive,UK,12-02-2024
+B0910,Aromatherapy Eucalyptus,Lotion,22.01,93,2046.93,3.4,Neutral,Australia,03-07-2024
+B0911,Champagne Toast,Candle,14.73,157,2312.61,3.3,Negative,Germany,26-02-2024
+B0912,Champagne Toast,Candle,18.24,185,3374.4,3.7,Positive,US,09-05-2024
+B0913,Sweet Pea,Shower Gel,14.78,103,1522.34,3.1,Positive,UK,12-05-2024
+B0914,Peach Bellini,Hand Soap,13.11,166,2176.26,3.6,Positive,UK,23-06-2024
+B0915,Into the Night,Mist,5.19,88,456.72,4.3,Positive,India,21-06-2024
+B0916,Ocean,Shower Gel,28.16,38,1070.08,4.8,Positive,US,12-02-2024
+B0917,Fresh Balsam,Candle,25.83,95,2453.85,4.2,Positive,US,10-01-2024
+B0918,Into the Night,Mist,14.86,32,475.52,3.7,Positive,UK,24-03-2024
+B0919,Mahogany Teakwood,Candle,10.41,54,562.14,3.7,Neutral,Australia,28-07-2024
+B0920,Peach Bellini,Hand Soap,26.15,144,3765.6,3.2,Neutral,UK,24-04-2024
+B0921,Warm Vanilla Sugar,Lotion,29,78,2262,4.9,Positive,US,13-06-2024
+B0922,Into the Night,Mist,5.88,100,588,3.4,Positive,US,15-05-2024
+B0923,Sweet Pea,Shower Gel,16.82,25,420.5,4.2,Neutral,Australia,12-07-2024
+B0924,Japanese Cherry Blossom,Lotion,14.02,70,981.4,4.7,Positive,UK,15-07-2024
+B0925,Kitchen Lemon,Hand Soap,27.25,94,2561.5,4.1,Negative,Australia,17-07-2024
+B0926,Kitchen Lemon,Hand Soap,28.89,159,4593.51,4,Neutral,India,25-04-2024
+B0927,Crisp Morning Air,Hand Soap,12.47,52,648.44,3.3,Neutral,UK,10-05-2024
+B0928,A Thousand Wishes,Mist,20.8,197,4097.6,4.2,Negative,UK,22-07-2024
+B0929,Dark Kiss,Shower Gel,9.44,42,396.48,3.6,Positive,US,31-01-2024
+B0930,Crisp Morning Air,Hand Soap,5.63,11,61.93,4.8,Positive,UK,24-07-2024
+B0931,A Thousand Wishes,Mist,10.74,175,1879.5,4.8,Positive,Canada,01-03-2024
+B0932,Japanese Cherry Blossom,Lotion,26.71,27,721.17,3.4,Positive,US,03-05-2024
+B0933,Ocean,Shower Gel,20.84,118,2459.12,4.1,Positive,UK,26-01-2024
+B0934,Gingham Love,Mist,26.28,144,3784.32,4.2,Positive,Germany,07-06-2024
+B0935,Kitchen Lemon,Hand Soap,17.49,186,3253.14,5,Positive,Germany,24-04-2024
+B0936,Peach Bellini,Hand Soap,28.74,174,5000.76,3.8,Neutral,UK,03-02-2024
+B0937,Sweet Pea,Shower Gel,22.59,104,2349.36,3.6,Negative,India,18-01-2024
+B0938,Mahogany Teakwood,Candle,22.69,37,839.53,4.5,Positive,Canada,17-01-2024
+B0939,Fresh Balsam,Candle,8.58,175,1501.5,3,Positive,US,24-01-2024
+B0940,Peach Bellini,Hand Soap,5.2,33,171.6,4,Positive,Canada,05-05-2024
+B0941,Fresh Balsam,Candle,18.82,98,1844.36,3,Positive,Australia,30-04-2024
+B0942,Sweet Pea,Shower Gel,7.18,126,904.68,3.4,Positive,Australia,30-03-2024
+B0943,Crisp Morning Air,Hand Soap,11.51,102,1174.02,4.1,Positive,Australia,04-02-2024
+B0944,Fresh Balsam,Candle,28.55,93,2655.15,3.3,Positive,Germany,28-07-2024
+B0945,Crisp Morning Air,Hand Soap,27.49,151,4150.99,3.5,Positive,India,14-01-2024
+B0946,Fresh Balsam,Candle,15.99,40,639.6,4.3,Positive,Germany,27-04-2024
+B0947,Mahogany Teakwood,Candle,16.07,193,3101.51,4.5,Negative,India,16-06-2024
+B0948,Mahogany Teakwood,Candle,13.15,54,710.1,3.3,Negative,Canada,06-06-2024
+B0949,Kitchen Lemon,Hand Soap,28.88,197,5689.36,3.9,Positive,US,29-05-2024
+B0950,Into the Night,Mist,18.83,46,866.18,3.5,Positive,UK,16-06-2024
+B0951,Fresh Balsam,Candle,26.39,148,3905.72,3.4,Positive,UK,19-03-2024
+B0952,Kitchen Lemon,Hand Soap,17.23,175,3015.25,3.9,Neutral,Canada,06-05-2024
+B0953,Champagne Toast,Candle,12.25,15,183.75,4.1,Positive,India,05-03-2024
+B0954,Peach Bellini,Hand Soap,22.89,39,892.71,3.4,Positive,Australia,29-05-2024
+B0955,Warm Vanilla Sugar,Lotion,19.28,122,2352.16,3.1,Positive,Germany,04-03-2024
+B0956,Dark Kiss,Shower Gel,23.99,137,3286.63,4.4,Positive,UK,30-06-2024
+B0957,Fresh Balsam,Candle,28.78,142,4086.76,3.5,Positive,Germany,26-07-2024
+B0958,Warm Vanilla Sugar,Lotion,24.83,111,2756.13,4.5,Neutral,India,14-01-2024
+B0959,Mahogany Teakwood,Candle,5.94,21,124.74,3.5,Positive,Germany,04-06-2024
+B0960,Peach Bellini,Hand Soap,17.59,155,2726.45,3.9,Positive,Germany,26-06-2024
+B0961,A Thousand Wishes,Mist,17.86,57,1018.02,3.5,Positive,US,16-01-2024
+B0962,Mahogany Teakwood,Candle,11.95,87,1039.65,3.5,Positive,India,21-01-2024
+B0963,Dark Kiss,Shower Gel,7.74,27,208.98,3.7,Neutral,Germany,23-02-2024
+B0964,Ocean,Shower Gel,5.57,48,267.36,4.3,Positive,India,05-07-2024
+B0965,A Thousand Wishes,Mist,5.6,87,487.2,3.4,Positive,India,07-07-2024
+B0966,Mahogany Teakwood,Candle,20.3,60,1218,4.8,Positive,US,30-04-2024
+B0967,Fresh Balsam,Candle,19.84,33,654.72,4.2,Positive,US,11-04-2024
+B0968,Fresh Balsam,Candle,8.79,63,553.77,3.3,Neutral,Australia,28-06-2024
+B0969,Crisp Morning Air,Hand Soap,23.82,45,1071.9,3.1,Positive,Germany,09-07-2024
+B0970,Warm Vanilla Sugar,Lotion,7.82,113,883.66,3.2,Negative,US,11-01-2024
+B0971,Sweet Pea,Shower Gel,5.8,44,255.2,4.4,Positive,Australia,15-05-2024
+B0972,Mahogany Teakwood,Candle,28.14,196,5515.44,3.4,Positive,Australia,19-02-2024
+B0973,Crisp Morning Air,Hand Soap,10.21,13,132.73,4.3,Positive,UK,19-06-2024
+B0974,Ocean,Shower Gel,8.74,82,716.68,3.4,Positive,India,06-01-2024
+B0975,Peach Bellini,Hand Soap,18.12,96,1739.52,4.7,Positive,Canada,24-03-2024
+B0976,Fresh Balsam,Candle,12.17,42,511.14,3,Neutral,Germany,19-02-2024
+B0977,Gingham Love,Mist,23.04,26,599.04,4.6,Neutral,Canada,01-01-2024
+B0978,Sweet Pea,Shower Gel,13.63,187,2548.81,4.2,Neutral,US,17-07-2024
+B0979,Champagne Toast,Candle,7.97,80,637.6,3.4,Negative,UK,20-05-2024
+B0980,Dark Kiss,Shower Gel,14.68,43,631.24,3.4,Positive,Germany,20-01-2024
+B0981,Mahogany Teakwood,Candle,8.52,133,1133.16,4.9,Positive,India,02-04-2024
+B0982,Champagne Toast,Candle,10.77,136,1464.72,3.6,Positive,US,07-06-2024
+B0983,Peach Bellini,Hand Soap,23.04,31,714.24,3.9,Neutral,Australia,06-01-2024
+B0984,Mahogany Teakwood,Candle,8.16,82,669.12,4.1,Negative,UK,28-01-2024
+B0985,Gingham Love,Mist,28.82,50,1441,4.7,Positive,US,13-06-2024
+B0986,Fresh Balsam,Candle,22.76,83,1889.08,3.1,Positive,India,05-01-2024
+B0987,Gingham Love,Mist,28.91,154,4452.14,4.8,Positive,Australia,04-04-2024
+B0988,A Thousand Wishes,Mist,6.62,123,814.26,4.2,Neutral,UK,30-03-2024
+B0989,Gingham Love,Mist,26.09,73,1904.57,3.5,Neutral,UK,05-02-2024
+B0990,Crisp Morning Air,Hand Soap,5.07,21,106.47,4.1,Neutral,India,23-07-2024
+B0991,Warm Vanilla Sugar,Lotion,10.18,198,2015.64,4.6,Positive,Australia,26-01-2024
+B0992,Crisp Morning Air,Hand Soap,24.09,33,794.97,4,Positive,India,11-01-2024
+B0993,Aromatherapy Eucalyptus,Lotion,7.44,196,1458.24,4.3,Positive,India,07-02-2024
+B0994,Aromatherapy Eucalyptus,Lotion,7.7,97,746.9,4.4,Positive,India,20-02-2024
+B0995,Japanese Cherry Blossom,Lotion,16.32,73,1191.36,3.1,Neutral,US,26-03-2024
+B0996,Japanese Cherry Blossom,Lotion,14.03,145,2034.35,4.9,Positive,Australia,21-02-2024
+B0997,Mahogany Teakwood,Candle,22.6,16,361.6,3,Positive,India,30-03-2024
+B0998,Sweet Pea,Shower Gel,13.88,119,1651.72,4.4,Positive,US,07-05-2024
+B0999,Mahogany Teakwood,Candle,19.03,95,1807.85,3.4,Positive,Canada,17-07-2024
+B1000,Dark Kiss,Shower Gel,8.91,122,1087.02,4.8,Neutral,Australia,10-04-2024
+B1001,Mahogany Teakwood,Candle,13.83,26,359.58,4,Neutral,Australia,28-06-2024
+B1002,Warm Vanilla Sugar,Lotion,6.44,78,502.32,3.8,Positive,UK,20-03-2024
+B1003,Ocean,Shower Gel,23.88,39,931.32,3.1,Positive,Australia,19-06-2024
+B1004,Japanese Cherry Blossom,Lotion,5.93,177,1049.61,3.5,Positive,India,15-07-2024
+B1005,Aromatherapy Eucalyptus,Lotion,19.07,189,3604.23,4.7,Positive,India,10-03-2024
+B1006,Japanese Cherry Blossom,Lotion,11.23,191,2144.93,3.1,Neutral,UK,11-01-2024
+B1007,Sweet Pea,Shower Gel,17.55,160,2808,3.6,Neutral,Australia,29-07-2024
+B1008,Peach Bellini,Hand Soap,18.23,136,2479.28,4.3,Positive,Australia,20-02-2024
+B1009,Dark Kiss,Shower Gel,22.13,116,2567.08,3.8,Positive,US,15-03-2024
+B1010,Crisp Morning Air,Hand Soap,28.89,48,1386.72,3.4,Positive,Australia,13-01-2024
+B1011,Peach Bellini,Hand Soap,11.65,69,803.85,4.7,Neutral,Canada,21-04-2024
+B1012,Fresh Balsam,Candle,22.22,141,3133.02,4.3,Positive,India,29-05-2024
+B1013,Aromatherapy Eucalyptus,Lotion,16.15,13,209.95,3.1,Neutral,Canada,08-03-2024
+B1014,Peach Bellini,Hand Soap,8.49,64,543.36,3.9,Positive,India,28-07-2024
+B1015,Mahogany Teakwood,Candle,7.23,24,173.52,4.7,Positive,US,17-06-2024
+B1016,Into the Night,Mist,26.24,149,3909.76,4.9,Neutral,UK,01-03-2024
+B1017,Sweet Pea,Shower Gel,17.82,139,2476.98,4.8,Neutral,Canada,24-04-2024
+B1018,Warm Vanilla Sugar,Lotion,29.4,15,441,4.5,Positive,India,09-06-2024
+B1019,A Thousand Wishes,Mist,17.71,28,495.88,4.9,Negative,UK,07-03-2024
+B1020,Ocean,Shower Gel,9.02,40,360.8,3.9,Neutral,India,01-04-2024
+B1021,Sweet Pea,Shower Gel,28.18,156,4396.08,5,Negative,Australia,05-04-2024
+B1022,Aromatherapy Eucalyptus,Lotion,9.31,16,148.96,3.5,Positive,UK,01-05-2024
+B1023,Peach Bellini,Hand Soap,7.34,56,411.04,4.7,Positive,UK,22-01-2024
+B1024,Dark Kiss,Shower Gel,7.29,175,1275.75,4.3,Negative,Australia,10-05-2024
+B1025,Dark Kiss,Shower Gel,24.79,163,4040.77,4.3,Positive,Canada,09-05-2024
+B1026,Peach Bellini,Hand Soap,23.8,158,3760.4,4.9,Positive,Germany,02-05-2024
+B1027,Japanese Cherry Blossom,Lotion,6.08,100,608,3.5,Positive,US,21-07-2024
+B1028,Dark Kiss,Shower Gel,7.81,119,929.39,3.1,Neutral,Canada,13-06-2024
+B1029,Champagne Toast,Candle,12.1,186,2250.6,4.1,Positive,Australia,04-07-2024
+B1030,Into the Night,Mist,24.48,127,3108.96,4.2,Neutral,Germany,17-06-2024
+B1031,Kitchen Lemon,Hand Soap,12.32,21,258.72,4.8,Negative,Germany,28-06-2024
+B1032,A Thousand Wishes,Mist,14.41,149,2147.09,3.5,Positive,Australia,05-06-2024
+B1033,Japanese Cherry Blossom,Lotion,16.33,89,1453.37,3.3,Positive,India,09-02-2024
+B1034,Into the Night,Mist,14.65,50,732.5,5,Positive,Canada,13-07-2024
+B1035,Crisp Morning Air,Hand Soap,18.57,42,779.94,3,Negative,Canada,21-07-2024
+B1036,A Thousand Wishes,Mist,15,188,2820,4,Positive,Canada,21-04-2024
+B1037,Gingham Love,Mist,16.99,144,2446.56,3.9,Positive,US,18-04-2024
+B1038,Ocean,Shower Gel,7.23,28,202.44,3.4,Neutral,Germany,30-05-2024
+B1039,Champagne Toast,Candle,21.53,163,3509.39,4.3,Positive,Canada,29-07-2024
+B1040,Kitchen Lemon,Hand Soap,10.82,131,1417.42,4.4,Neutral,Canada,28-03-2024
+B1041,Mahogany Teakwood,Candle,27.96,92,2572.32,4.1,Positive,Germany,26-03-2024
+B1042,Warm Vanilla Sugar,Lotion,14.01,81,1134.81,4.5,Positive,US,08-03-2024
+B1043,Ocean,Shower Gel,15.72,176,2766.72,3.1,Positive,UK,15-03-2024
+B1044,Aromatherapy Eucalyptus,Lotion,15.41,26,400.66,3.9,Neutral,US,10-07-2024
+B1045,Ocean,Shower Gel,22.5,162,3645,4.1,Neutral,US,10-06-2024
+B1046,Sweet Pea,Shower Gel,28.91,196,5666.36,3,Positive,Canada,21-05-2024
+B1047,Japanese Cherry Blossom,Lotion,6.99,79,552.21,3.8,Neutral,Canada,27-01-2024
+B1048,A Thousand Wishes,Mist,9.62,110,1058.2,4.3,Negative,Australia,19-05-2024
+B1049,Sweet Pea,Shower Gel,18.46,73,1347.58,4.4,Positive,India,27-06-2024
+B1050,Dark Kiss,Shower Gel,12.79,139,1777.81,3.8,Positive,UK,24-01-2024
+B1051,A Thousand Wishes,Mist,11.53,90,1037.7,4.6,Positive,India,01-02-2024
+B1052,Fresh Balsam,Candle,19.98,56,1118.88,3.1,Positive,UK,02-05-2024
+B1053,Fresh Balsam,Candle,28.22,187,5277.14,3.1,Positive,US,01-05-2024
+B1054,Peach Bellini,Hand Soap,23.2,68,1577.6,4.7,Positive,India,16-07-2024
+B1055,Kitchen Lemon,Hand Soap,15.53,73,1133.69,3.8,Neutral,US,02-02-2024
+B1056,Sweet Pea,Shower Gel,11.5,105,1207.5,4.2,Positive,US,02-01-2024
+B1057,Aromatherapy Eucalyptus,Lotion,21.4,156,3338.4,3.6,Positive,India,15-05-2024
+B1058,Into the Night,Mist,6.17,106,654.02,5,Positive,Germany,11-03-2024
+B1059,Sweet Pea,Shower Gel,15.87,137,2174.19,3.8,Positive,UK,21-04-2024
+B1060,Mahogany Teakwood,Candle,25.5,89,2269.5,3.6,Neutral,Australia,05-05-2024
+B1061,A Thousand Wishes,Mist,27.31,156,4260.36,3.9,Negative,UK,15-07-2024
+B1062,Mahogany Teakwood,Candle,24.53,165,4047.45,3.1,Positive,UK,19-07-2024
+B1063,Gingham Love,Mist,26.9,43,1156.7,4.7,Positive,UK,17-04-2024
+B1064,Into the Night,Mist,7.71,171,1318.41,3.7,Positive,US,28-02-2024
+B1065,Aromatherapy Eucalyptus,Lotion,28.3,118,3339.4,3.3,Positive,Canada,14-02-2024
+B1066,Into the Night,Mist,29.08,125,3635,3.9,Neutral,Germany,26-06-2024
+B1067,Crisp Morning Air,Hand Soap,15.03,90,1352.7,4.2,Positive,US,27-01-2024
+B1068,Champagne Toast,Candle,22.73,35,795.55,3.2,Negative,UK,08-05-2024
+B1069,Sweet Pea,Shower Gel,20.99,25,524.75,3,Negative,US,17-05-2024
+B1070,Japanese Cherry Blossom,Lotion,19.72,111,2188.92,4,Positive,Canada,23-05-2024
+B1071,Mahogany Teakwood,Candle,9.32,162,1509.84,4.8,Positive,US,20-07-2024
+B1072,Gingham Love,Mist,8.37,193,1615.41,3.8,Positive,Germany,12-02-2024
+B1073,Kitchen Lemon,Hand Soap,8.68,38,329.84,4.8,Positive,UK,15-05-2024
+B1074,Fresh Balsam,Candle,23.99,132,3166.68,3.7,Positive,India,27-06-2024
+B1075,Peach Bellini,Hand Soap,6.2,151,936.2,3.7,Neutral,UK,13-02-2024
+B1076,A Thousand Wishes,Mist,9.37,42,393.54,3.2,Positive,Canada,11-07-2024
+B1077,Dark Kiss,Shower Gel,26.97,102,2750.94,4.6,Negative,US,09-03-2024
+B1078,Aromatherapy Eucalyptus,Lotion,28.61,75,2145.75,3.6,Positive,Australia,15-06-2024
+B1079,A Thousand Wishes,Mist,8.64,60,518.4,4.7,Positive,Canada,05-02-2024
+B1080,Fresh Balsam,Candle,29.62,83,2458.46,4.5,Positive,Germany,07-07-2024
+B1081,Peach Bellini,Hand Soap,28.5,197,5614.5,4.6,Positive,Australia,22-04-2024
+B1082,Mahogany Teakwood,Candle,21.61,175,3781.75,4.3,Neutral,Canada,05-05-2024
+B1083,Warm Vanilla Sugar,Lotion,26.69,152,4056.88,4.1,Positive,US,28-07-2024
+B1084,Crisp Morning Air,Hand Soap,22.86,177,4046.22,4.1,Neutral,India,18-01-2024
+B1085,Kitchen Lemon,Hand Soap,25.67,75,1925.25,3.7,Positive,Australia,09-01-2024
+B1086,Ocean,Shower Gel,13.12,149,1954.88,4,Positive,Canada,08-06-2024
+B1087,Into the Night,Mist,27.03,13,351.39,3.1,Negative,Germany,28-06-2024
+B1088,Aromatherapy Eucalyptus,Lotion,6.73,111,747.03,3.9,Positive,US,11-05-2024
+B1089,Crisp Morning Air,Hand Soap,29.72,81,2407.32,3.5,Negative,UK,02-04-2024
+B1090,Gingham Love,Mist,6.34,146,925.64,3.4,Positive,Germany,02-04-2024
+B1091,Japanese Cherry Blossom,Lotion,20.07,65,1304.55,3.9,Neutral,US,28-01-2024
+B1092,Into the Night,Mist,21.09,41,864.69,3.3,Positive,India,08-05-2024
+B1093,A Thousand Wishes,Mist,23.38,169,3951.22,4.1,Positive,India,30-05-2024
+B1094,Ocean,Shower Gel,27.12,186,5044.32,4.2,Positive,Australia,21-03-2024
+B1095,Sweet Pea,Shower Gel,8.32,132,1098.24,3.2,Neutral,Canada,23-06-2024
+B1096,Gingham Love,Mist,10.81,32,345.92,4.7,Negative,Germany,18-05-2024
+B1097,Peach Bellini,Hand Soap,11.32,78,882.96,3.3,Positive,Germany,22-05-2024
+B1098,Fresh Balsam,Candle,16.24,143,2322.32,3.5,Positive,Canada,27-01-2024
+B1099,Aromatherapy Eucalyptus,Lotion,21.49,137,2944.13,3.1,Negative,India,10-02-2024
+B1100,Mahogany Teakwood,Candle,17.93,141,2528.13,4.8,Neutral,Canada,22-05-2024
+B1101,Mahogany Teakwood,Candle,8.03,39,313.17,3,Positive,US,01-01-2024
+B1102,Aromatherapy Eucalyptus,Lotion,18.05,128,2310.4,3.9,Positive,India,08-01-2024
+B1103,Sweet Pea,Shower Gel,26.7,183,4886.1,4,Positive,India,03-01-2024
+B1104,Japanese Cherry Blossom,Lotion,9.73,108,1050.84,4.6,Positive,Canada,04-07-2024
+B1105,Dark Kiss,Shower Gel,28.21,176,4964.96,3.5,Negative,India,30-05-2024
+B1106,Japanese Cherry Blossom,Lotion,11.91,150,1786.5,4.3,Positive,Australia,20-03-2024
+B1107,Dark Kiss,Shower Gel,25.8,35,903,3.1,Positive,US,16-07-2024
+B1108,Crisp Morning Air,Hand Soap,27.9,10,279,3.7,Neutral,Germany,25-03-2024
+B1109,Dark Kiss,Shower Gel,15.94,29,462.26,3.7,Negative,Australia,12-01-2024
+B1110,Peach Bellini,Hand Soap,14.75,78,1150.5,3.2,Positive,Australia,14-06-2024
+B1111,Gingham Love,Mist,26.69,191,5097.79,3.2,Neutral,UK,27-02-2024
+B1112,Japanese Cherry Blossom,Lotion,18.54,35,648.9,3.8,Neutral,UK,31-05-2024
+B1113,Dark Kiss,Shower Gel,6.05,167,1010.35,3,Neutral,Canada,13-07-2024
+B1114,Crisp Morning Air,Hand Soap,18.71,85,1590.35,4.1,Positive,India,04-07-2024
+B1115,Sweet Pea,Shower Gel,15.13,109,1649.17,4.2,Neutral,Canada,15-05-2024
+B1116,Dark Kiss,Shower Gel,18.95,143,2709.85,4.8,Positive,India,30-04-2024
+B1117,Peach Bellini,Hand Soap,6.82,17,115.94,3.7,Positive,UK,16-02-2024
+B1118,Kitchen Lemon,Hand Soap,19.23,106,2038.38,3,Positive,US,02-02-2024
+B1119,Warm Vanilla Sugar,Lotion,15.79,189,2984.31,4.5,Positive,India,10-06-2024
+B1120,Sweet Pea,Shower Gel,25.78,57,1469.46,3.8,Positive,India,21-01-2024
+B1121,Aromatherapy Eucalyptus,Lotion,14.21,45,639.45,4.9,Neutral,UK,02-04-2024
+B1122,Dark Kiss,Shower Gel,29.29,40,1171.6,3.9,Positive,US,29-06-2024
+B1123,Champagne Toast,Candle,12.42,164,2036.88,3.4,Positive,Germany,18-05-2024
+B1124,Ocean,Shower Gel,12.01,165,1981.65,4.4,Positive,Australia,05-02-2024
+B1125,Into the Night,Mist,9.07,164,1487.48,4.9,Positive,US,30-05-2024
+B1126,Kitchen Lemon,Hand Soap,25.28,77,1946.56,4.4,Positive,US,03-02-2024
+B1127,Dark Kiss,Shower Gel,22.03,105,2313.15,4,Neutral,Australia,22-03-2024
+B1128,Ocean,Shower Gel,5.07,157,795.99,3.3,Neutral,Australia,03-04-2024
+B1129,Aromatherapy Eucalyptus,Lotion,19.36,197,3813.92,3.1,Positive,Germany,26-02-2024
+B1130,Gingham Love,Mist,11.88,23,273.24,3.9,Positive,UK,04-02-2024
+B1131,Kitchen Lemon,Hand Soap,17.58,153,2689.74,4.2,Neutral,UK,20-07-2024
+B1132,Warm Vanilla Sugar,Lotion,7.22,143,1032.46,4.3,Negative,Canada,12-05-2024
+B1133,Fresh Balsam,Candle,11.55,125,1443.75,3.5,Positive,US,17-04-2024
+B1134,Peach Bellini,Hand Soap,28.1,105,2950.5,3,Positive,UK,20-07-2024
+B1135,Sweet Pea,Shower Gel,22.45,25,561.25,3.2,Positive,India,01-01-2024
+B1136,Champagne Toast,Candle,27.15,37,1004.55,5,Positive,Canada,21-03-2024
+B1137,Kitchen Lemon,Hand Soap,23.69,21,497.49,4.5,Positive,Australia,28-07-2024
+B1138,Aromatherapy Eucalyptus,Lotion,8.4,21,176.4,3.1,Positive,India,20-04-2024
+B1139,A Thousand Wishes,Mist,5.37,133,714.21,3.5,Neutral,US,16-06-2024
+B1140,Sweet Pea,Shower Gel,24.63,153,3768.39,4.4,Positive,Germany,28-02-2024
+B1141,Fresh Balsam,Candle,18.05,115,2075.75,4.2,Positive,UK,15-04-2024
+B1142,Fresh Balsam,Candle,11.43,130,1485.9,4.5,Positive,US,06-07-2024
+B1143,Sweet Pea,Shower Gel,17.87,46,822.02,5,Positive,India,20-03-2024
+B1144,Warm Vanilla Sugar,Lotion,27.54,195,5370.3,4.5,Positive,US,26-03-2024
+B1145,Champagne Toast,Candle,24.37,179,4362.23,4.2,Positive,US,16-02-2024
+B1146,Crisp Morning Air,Hand Soap,10.33,196,2024.68,3.7,Positive,Canada,14-07-2024
+B1147,Into the Night,Mist,15.52,25,388,3.8,Positive,Australia,19-05-2024
+B1148,Aromatherapy Eucalyptus,Lotion,15.73,59,928.07,4.2,Positive,UK,02-07-2024
+B1149,A Thousand Wishes,Mist,17.58,150,2637,3.6,Positive,Canada,23-07-2024
+B1150,Peach Bellini,Hand Soap,29.23,86,2513.78,3.8,Positive,UK,13-01-2024
+B1151,Into the Night,Mist,16.14,123,1985.22,4.9,Neutral,UK,10-04-2024
+B1152,Peach Bellini,Hand Soap,13.39,30,401.7,3.7,Positive,India,22-02-2024
+B1153,Fresh Balsam,Candle,25.62,162,4150.44,3.1,Negative,UK,15-07-2024
+B1154,Warm Vanilla Sugar,Lotion,17.33,189,3275.37,3.6,Positive,US,02-06-2024
+B1155,Mahogany Teakwood,Candle,28.78,35,1007.3,3.9,Positive,US,09-04-2024
+B1156,Sweet Pea,Shower Gel,5.48,94,515.12,4.6,Neutral,Germany,23-04-2024
+B1157,Kitchen Lemon,Hand Soap,22.17,55,1219.35,3.3,Positive,India,02-07-2024
+B1158,Into the Night,Mist,12.88,78,1004.64,4.4,Positive,US,15-02-2024
+B1159,Aromatherapy Eucalyptus,Lotion,8.38,122,1022.36,4.8,Neutral,UK,24-05-2024
+B1160,Warm Vanilla Sugar,Lotion,8.95,116,1038.2,4.5,Positive,US,13-01-2024
+B1161,Into the Night,Mist,13.43,194,2605.42,4.9,Negative,Germany,29-03-2024
+B1162,Dark Kiss,Shower Gel,16,168,2688,3.7,Positive,Australia,12-01-2024
+B1163,Japanese Cherry Blossom,Lotion,22.6,43,971.8,3.9,Positive,Germany,31-03-2024
+B1164,Sweet Pea,Shower Gel,14.15,17,240.55,4.8,Positive,US,17-01-2024
+B1165,Japanese Cherry Blossom,Lotion,12.2,183,2232.6,4.2,Negative,Germany,16-07-2024
+B1166,Warm Vanilla Sugar,Lotion,22.25,158,3515.5,3.2,Positive,US,02-02-2024
+B1167,Champagne Toast,Candle,6.14,166,1019.24,4.4,Neutral,US,17-01-2024
+B1168,Dark Kiss,Shower Gel,20.67,34,702.78,4.9,Negative,India,27-03-2024
+B1169,Ocean,Shower Gel,29,101,2929,3.7,Neutral,Germany,05-04-2024
+B1170,Dark Kiss,Shower Gel,8.66,102,883.32,3.8,Positive,Australia,14-04-2024
+B1171,Sweet Pea,Shower Gel,5.33,14,74.62,3.8,Positive,US,20-05-2024
+B1172,Aromatherapy Eucalyptus,Lotion,14.67,122,1789.74,4,Positive,Canada,27-06-2024
+B1173,Peach Bellini,Hand Soap,11.68,184,2149.12,3.3,Neutral,Germany,25-02-2024
+B1174,Fresh Balsam,Candle,26.21,88,2306.48,4.2,Negative,Canada,05-04-2024
+B1175,Warm Vanilla Sugar,Lotion,14.82,127,1882.14,3.8,Neutral,UK,10-02-2024
+B1176,Into the Night,Mist,10.45,172,1797.4,3.7,Positive,Canada,06-05-2024
+B1177,Crisp Morning Air,Hand Soap,11.38,110,1251.8,3.4,Positive,UK,17-05-2024
+B1178,Fresh Balsam,Candle,6.53,57,372.21,4.3,Positive,Canada,18-07-2024
+B1179,Mahogany Teakwood,Candle,12.69,34,431.46,3.1,Neutral,India,09-01-2024
+B1180,Aromatherapy Eucalyptus,Lotion,27.38,117,3203.46,4.7,Positive,US,03-03-2024
+B1181,Sweet Pea,Shower Gel,27.84,140,3897.6,3.5,Positive,US,30-01-2024
+B1182,Crisp Morning Air,Hand Soap,16.1,44,708.4,4.2,Positive,UK,22-06-2024
+B1183,Crisp Morning Air,Hand Soap,23.86,154,3674.44,4.1,Negative,UK,25-04-2024
+B1184,Ocean,Shower Gel,7.19,161,1157.59,4.5,Neutral,Canada,20-03-2024
+B1185,Kitchen Lemon,Hand Soap,10.77,71,764.67,3.8,Neutral,US,15-02-2024
+B1186,Champagne Toast,Candle,14.25,143,2037.75,3.4,Positive,US,28-04-2024
+B1187,Ocean,Shower Gel,5.03,123,618.69,3.2,Neutral,Canada,11-02-2024
+B1188,Ocean,Shower Gel,9.52,120,1142.4,4.4,Positive,India,14-06-2024
+B1189,Mahogany Teakwood,Candle,13.81,144,1988.64,4.6,Positive,Germany,05-05-2024
+B1190,Aromatherapy Eucalyptus,Lotion,14.15,34,481.1,3.9,Neutral,Australia,08-05-2024
+B1191,Fresh Balsam,Candle,14.29,150,2143.5,4.1,Neutral,India,21-03-2024
+B1192,Peach Bellini,Hand Soap,29.32,52,1524.64,4.4,Positive,India,22-05-2024
+B1193,Aromatherapy Eucalyptus,Lotion,6.26,96,600.96,4.8,Positive,Germany,14-07-2024
+B1194,Ocean,Shower Gel,6.68,106,708.08,4.2,Positive,Australia,28-05-2024
+B1195,Fresh Balsam,Candle,11.9,89,1059.1,4.7,Positive,Canada,11-05-2024
+B1196,Fresh Balsam,Candle,23.85,51,1216.35,3,Positive,India,24-02-2024
+B1197,A Thousand Wishes,Mist,8.19,68,556.92,3.3,Negative,UK,16-01-2024
+B1198,Japanese Cherry Blossom,Lotion,11.97,81,969.57,4.3,Neutral,India,10-07-2024
+B1199,Warm Vanilla Sugar,Lotion,15.54,102,1585.08,4.2,Neutral,US,28-06-2024
+B1200,Fresh Balsam,Candle,20.68,13,268.84,3.3,Positive,UK,13-01-2024
+B1201,Mahogany Teakwood,Candle,26.31,43,1131.33,4.4,Positive,Germany,02-02-2024
+B1202,Warm Vanilla Sugar,Lotion,14.32,59,844.88,3.1,Neutral,India,03-02-2024
+B1203,Japanese Cherry Blossom,Lotion,13.39,22,294.58,3.8,Positive,Germany,01-01-2024
+B1204,Japanese Cherry Blossom,Lotion,22.88,162,3706.56,3.5,Neutral,Australia,26-04-2024
+B1205,Gingham Love,Mist,27.58,34,937.72,4.2,Positive,US,15-07-2024
+B1206,Aromatherapy Eucalyptus,Lotion,9.05,163,1475.15,3.2,Positive,Germany,27-07-2024
+B1207,Japanese Cherry Blossom,Lotion,12.46,165,2055.9,3.1,Negative,Germany,29-05-2024
+B1208,Ocean,Shower Gel,7.98,17,135.66,3.5,Neutral,India,08-07-2024
+B1209,Into the Night,Mist,20.5,110,2255,3.3,Positive,Canada,24-07-2024
+B1210,Japanese Cherry Blossom,Lotion,17.17,138,2369.46,3.1,Positive,Australia,04-04-2024
+B1211,Crisp Morning Air,Hand Soap,28.85,20,577,3.8,Neutral,US,09-02-2024
+B1212,Sweet Pea,Shower Gel,25.1,102,2560.2,3.7,Positive,UK,14-03-2024
+B1213,A Thousand Wishes,Mist,5.9,120,708,3.8,Positive,India,19-03-2024
+B1214,Fresh Balsam,Candle,10.62,116,1231.92,3.7,Positive,Australia,03-06-2024
+B1215,Champagne Toast,Candle,9.74,53,516.22,3.8,Positive,US,31-01-2024
+B1216,Into the Night,Mist,11.39,115,1309.85,4.3,Negative,UK,08-07-2024
+B1217,Sweet Pea,Shower Gel,13.01,182,2367.82,3.3,Positive,Germany,11-05-2024
+B1218,Aromatherapy Eucalyptus,Lotion,23.37,162,3785.94,4.9,Positive,India,08-07-2024
+B1219,Kitchen Lemon,Hand Soap,20.99,195,4093.05,3.6,Neutral,Germany,22-01-2024
+B1220,Sweet Pea,Shower Gel,22.07,77,1699.39,3.4,Positive,Canada,25-07-2024
+B1221,Fresh Balsam,Candle,29.14,82,2389.48,4.9,Negative,UK,17-02-2024
+B1222,Japanese Cherry Blossom,Lotion,18.29,67,1225.43,3.5,Negative,US,27-07-2024
+B1223,Mahogany Teakwood,Candle,6.97,103,717.91,4.7,Positive,US,13-04-2024
+B1224,A Thousand Wishes,Mist,11.68,129,1506.72,4.6,Positive,India,25-06-2024
+B1225,Gingham Love,Mist,13.27,126,1672.02,3.8,Neutral,UK,03-07-2024
+B1226,Into the Night,Mist,14.01,71,994.71,3.9,Positive,Australia,10-03-2024
+B1227,Peach Bellini,Hand Soap,19.87,138,2742.06,3.8,Neutral,Canada,20-04-2024
+B1228,Into the Night,Mist,6.98,97,677.06,3.6,Positive,US,27-06-2024
+B1229,Dark Kiss,Shower Gel,28.13,168,4725.84,4.8,Positive,UK,23-01-2024
+B1230,Champagne Toast,Candle,19.9,92,1830.8,4.6,Positive,Australia,07-04-2024
+B1231,Gingham Love,Mist,9.54,71,677.34,3,Neutral,Canada,11-03-2024
+B1232,Champagne Toast,Candle,24.42,160,3907.2,5,Positive,US,08-04-2024
+B1233,Into the Night,Mist,29.94,77,2305.38,4.3,Positive,Canada,04-03-2024
+B1234,Kitchen Lemon,Hand Soap,12.52,91,1139.32,4.8,Positive,US,26-07-2024
+B1235,Peach Bellini,Hand Soap,15.32,178,2726.96,4.5,Positive,US,23-06-2024
+B1236,Aromatherapy Eucalyptus,Lotion,21.14,197,4164.58,3.2,Negative,UK,29-07-2024
+B1237,Mahogany Teakwood,Candle,28.3,30,849,3.7,Positive,India,24-01-2024
+B1238,Gingham Love,Mist,8.91,102,908.82,4.6,Positive,Canada,08-07-2024
+B1239,Peach Bellini,Hand Soap,24.94,76,1895.44,3.5,Positive,Australia,22-06-2024
+B1240,Warm Vanilla Sugar,Lotion,17.43,174,3032.82,4.9,Neutral,Germany,27-07-2024
+B1241,Aromatherapy Eucalyptus,Lotion,18.23,97,1768.31,4.8,Neutral,Australia,26-02-2024
+B1242,Crisp Morning Air,Hand Soap,8.3,120,996,3.8,Positive,Canada,18-02-2024
+B1243,Kitchen Lemon,Hand Soap,7.79,25,194.75,4.3,Positive,Germany,14-07-2024
+B1244,Into the Night,Mist,25.34,147,3724.98,3.1,Negative,UK,04-04-2024
+B1245,Sweet Pea,Shower Gel,29.6,19,562.4,3.1,Positive,Canada,23-06-2024
+B1246,Mahogany Teakwood,Candle,12.73,91,1158.43,3.9,Neutral,US,19-02-2024
+B1247,Kitchen Lemon,Hand Soap,20.11,68,1367.48,4.9,Positive,Canada,01-02-2024
+B1248,Peach Bellini,Hand Soap,25.15,187,4703.05,3.2,Negative,Canada,09-01-2024
+B1249,Warm Vanilla Sugar,Lotion,14.45,98,1416.1,3.7,Positive,Australia,17-07-2024
+B1250,Fresh Balsam,Candle,5.67,175,992.25,3.4,Neutral,Canada,04-05-2024
+B1251,Into the Night,Mist,22.98,167,3837.66,3.7,Neutral,Germany,17-06-2024
+B1252,Mahogany Teakwood,Candle,8.71,48,418.08,4.3,Neutral,Canada,23-04-2024
+B1253,Ocean,Shower Gel,27.34,164,4483.76,4.2,Positive,Australia,03-04-2024
+B1254,Champagne Toast,Candle,10.64,68,723.52,3.8,Positive,US,30-03-2024
+B1255,Crisp Morning Air,Hand Soap,7.29,22,160.38,4.1,Positive,Canada,10-05-2024
+B1256,Peach Bellini,Hand Soap,17.45,40,698,4.5,Neutral,Australia,21-02-2024
+B1257,Warm Vanilla Sugar,Lotion,5.35,41,219.35,3.3,Positive,India,14-06-2024
+B1258,Fresh Balsam,Candle,21.94,171,3751.74,4.9,Neutral,Germany,06-05-2024
+B1259,Peach Bellini,Hand Soap,24.05,146,3511.3,4.7,Neutral,Canada,02-05-2024
+B1260,Gingham Love,Mist,23.84,43,1025.12,3.3,Negative,Germany,25-02-2024
+B1261,Mahogany Teakwood,Candle,28.81,192,5531.52,4,Positive,India,12-07-2024
+B1262,Gingham Love,Mist,29.93,98,2933.14,4.1,Positive,India,08-07-2024
+B1263,Fresh Balsam,Candle,25.39,185,4697.15,4.3,Positive,UK,06-07-2024
+B1264,Kitchen Lemon,Hand Soap,14.43,168,2424.24,5,Positive,Germany,05-04-2024
+B1265,Japanese Cherry Blossom,Lotion,11.06,172,1902.32,4.6,Positive,Canada,23-07-2024
+B1266,Aromatherapy Eucalyptus,Lotion,7.87,24,188.88,3.5,Positive,UK,05-05-2024
+B1267,Warm Vanilla Sugar,Lotion,5.16,181,933.96,3.6,Neutral,US,19-03-2024
+B1268,Dark Kiss,Shower Gel,8.71,178,1550.38,3.1,Neutral,Australia,14-02-2024
+B1269,Aromatherapy Eucalyptus,Lotion,24.61,179,4405.19,3.8,Positive,Australia,03-07-2024
+B1270,Gingham Love,Mist,6.58,197,1296.26,3.6,Positive,UK,02-04-2024
+B1271,A Thousand Wishes,Mist,6.82,54,368.28,4.9,Positive,US,04-04-2024
+B1272,Peach Bellini,Hand Soap,11.69,29,339.01,4.1,Negative,UK,28-03-2024
+B1273,Crisp Morning Air,Hand Soap,5.42,181,981.02,3.2,Neutral,Canada,31-05-2024
+B1274,Dark Kiss,Shower Gel,16.27,137,2228.99,3.7,Positive,US,02-05-2024
+B1275,Mahogany Teakwood,Candle,11.34,121,1372.14,5,Positive,India,19-01-2024
+B1276,Kitchen Lemon,Hand Soap,8.4,179,1503.6,3.2,Positive,India,21-02-2024
+B1277,Fresh Balsam,Candle,15.75,168,2646,3.8,Positive,Australia,14-06-2024
+B1278,Kitchen Lemon,Hand Soap,19.16,143,2739.88,3.9,Positive,Australia,19-04-2024
+B1279,Kitchen Lemon,Hand Soap,7,164,1148,5,Positive,Germany,22-04-2024
+B1280,Peach Bellini,Hand Soap,24.12,127,3063.24,4.9,Positive,India,15-05-2024
+B1281,Dark Kiss,Shower Gel,21.22,117,2482.74,3.7,Neutral,Germany,23-02-2024
+B1282,Sweet Pea,Shower Gel,22.32,61,1361.52,3.2,Positive,Australia,16-07-2024
+B1283,Gingham Love,Mist,9.71,141,1369.11,4.3,Neutral,UK,12-06-2024
+B1284,Mahogany Teakwood,Candle,8.12,21,170.52,3.3,Positive,US,31-03-2024
+B1285,Gingham Love,Mist,25.19,79,1990.01,5,Positive,UK,26-04-2024
+B1286,Kitchen Lemon,Hand Soap,22.77,10,227.7,3.3,Negative,Australia,28-04-2024
+B1287,Gingham Love,Mist,18.62,121,2253.02,4,Positive,India,24-04-2024
+B1288,Crisp Morning Air,Hand Soap,27.12,32,867.84,3.8,Positive,Australia,29-03-2024
+B1289,Japanese Cherry Blossom,Lotion,26.45,18,476.1,3,Positive,Germany,21-03-2024
+B1290,Champagne Toast,Candle,9.98,160,1596.8,4.5,Negative,Australia,24-05-2024
+B1291,Ocean,Shower Gel,29.07,122,3546.54,3.2,Neutral,Germany,24-05-2024
+B1292,Into the Night,Mist,19.23,107,2057.61,3.4,Positive,UK,26-06-2024
+B1293,Dark Kiss,Shower Gel,22.98,55,1263.9,3.7,Positive,Canada,15-05-2024
+B1294,Crisp Morning Air,Hand Soap,21.86,119,2601.34,3.6,Negative,India,21-03-2024
+B1295,A Thousand Wishes,Mist,20.52,153,3139.56,4.7,Neutral,Australia,05-06-2024
+B1296,Gingham Love,Mist,15.35,121,1857.35,3.5,Negative,UK,11-07-2024
+B1297,A Thousand Wishes,Mist,10.54,191,2013.14,3.5,Positive,India,19-03-2024
+B1298,Japanese Cherry Blossom,Lotion,19.23,164,3153.72,4.2,Neutral,Germany,03-03-2024
+B1299,Gingham Love,Mist,19.46,82,1595.72,3.5,Neutral,UK,14-04-2024
+B1300,Aromatherapy Eucalyptus,Lotion,23.98,178,4268.44,4.4,Positive,US,27-02-2024
+B1301,Dark Kiss,Shower Gel,17.51,42,735.42,4.2,Positive,India,25-02-2024
+B1302,Sweet Pea,Shower Gel,24.26,143,3469.18,4.2,Negative,Canada,26-01-2024
+B1303,Mahogany Teakwood,Candle,29.18,156,4552.08,3.9,Positive,US,14-02-2024
+B1304,Kitchen Lemon,Hand Soap,16.97,87,1476.39,4.8,Positive,UK,19-02-2024
+B1305,Crisp Morning Air,Hand Soap,13.42,159,2133.78,3.3,Neutral,Canada,10-01-2024
+B1306,Warm Vanilla Sugar,Lotion,12.54,155,1943.7,3.9,Positive,Canada,17-01-2024
+B1307,Ocean,Shower Gel,19.16,17,325.72,3.3,Neutral,US,01-04-2024
+B1308,Mahogany Teakwood,Candle,10.1,128,1292.8,3.7,Positive,India,01-04-2024
+B1309,Dark Kiss,Shower Gel,9.76,159,1551.84,3.7,Positive,US,30-04-2024
+B1310,Dark Kiss,Shower Gel,29.27,30,878.1,4.8,Positive,UK,18-01-2024
+B1311,A Thousand Wishes,Mist,12.46,76,946.96,4.4,Positive,US,26-02-2024
+B1312,Warm Vanilla Sugar,Lotion,28.36,150,4254,3.7,Neutral,Canada,16-03-2024
+B1313,Champagne Toast,Candle,8.94,181,1618.14,4.5,Positive,Canada,04-03-2024
+B1314,Gingham Love,Mist,12.32,77,948.64,3.8,Positive,UK,05-01-2024
+B1315,Fresh Balsam,Candle,16.27,158,2570.66,3.8,Neutral,Germany,21-06-2024
+B1316,Peach Bellini,Hand Soap,25.78,18,464.04,4.1,Negative,UK,15-06-2024
+B1317,Fresh Balsam,Candle,26.51,107,2836.57,4.5,Negative,Germany,09-02-2024
+B1318,Aromatherapy Eucalyptus,Lotion,21.57,134,2890.38,3.9,Positive,UK,29-04-2024
+B1319,Mahogany Teakwood,Candle,12.55,91,1142.05,3.1,Positive,UK,22-07-2024
+B1320,Warm Vanilla Sugar,Lotion,9.05,153,1384.65,4.2,Positive,UK,10-04-2024
+B1321,Champagne Toast,Candle,23.79,196,4662.84,4.7,Negative,Canada,10-02-2024
+B1322,Mahogany Teakwood,Candle,18.01,49,882.49,4.2,Positive,US,04-02-2024
+B1323,Champagne Toast,Candle,15.03,37,556.11,3.4,Neutral,US,28-02-2024
+B1324,Mahogany Teakwood,Candle,11.34,129,1462.86,3.9,Neutral,Germany,01-02-2024
+B1325,Crisp Morning Air,Hand Soap,14.13,12,169.56,3.9,Positive,Australia,17-07-2024
+B1326,Sweet Pea,Shower Gel,13.68,90,1231.2,3.5,Neutral,UK,14-02-2024
+B1327,Into the Night,Mist,6.4,54,345.6,4.8,Neutral,UK,22-05-2024
+B1328,Kitchen Lemon,Hand Soap,10.87,65,706.55,3.5,Negative,Canada,21-07-2024
+B1329,Warm Vanilla Sugar,Lotion,18.5,127,2349.5,3.1,Negative,Germany,28-05-2024
+B1330,Warm Vanilla Sugar,Lotion,16.36,51,834.36,4.9,Positive,UK,03-02-2024
+B1331,Japanese Cherry Blossom,Lotion,6.46,194,1253.24,3.8,Neutral,India,18-06-2024
+B1332,Peach Bellini,Hand Soap,24.4,36,878.4,4.7,Positive,Germany,11-06-2024
+B1333,Crisp Morning Air,Hand Soap,25.62,115,2946.3,3.2,Neutral,Canada,02-06-2024
+B1334,Into the Night,Mist,14.66,173,2536.18,4.1,Positive,Canada,22-04-2024
+B1335,Peach Bellini,Hand Soap,8.71,139,1210.69,4.7,Positive,UK,09-02-2024
+B1336,Ocean,Shower Gel,25.07,159,3986.13,4.6,Positive,India,10-04-2024
+B1337,A Thousand Wishes,Mist,11.37,139,1580.43,4.4,Positive,Australia,04-03-2024
+B1338,Fresh Balsam,Candle,9.69,156,1511.64,4.5,Positive,US,17-02-2024
+B1339,Mahogany Teakwood,Candle,7.15,22,157.3,3.2,Positive,US,11-05-2024
+B1340,Fresh Balsam,Candle,13.67,186,2542.62,4.1,Neutral,India,09-07-2024
+B1341,Aromatherapy Eucalyptus,Lotion,27.91,28,781.48,3.9,Positive,UK,04-05-2024
+B1342,Aromatherapy Eucalyptus,Lotion,28.31,163,4614.53,3.3,Positive,India,07-06-2024
+B1343,A Thousand Wishes,Mist,13.87,163,2260.81,3.6,Neutral,US,14-07-2024
+B1344,Kitchen Lemon,Hand Soap,9.32,46,428.72,4.8,Negative,UK,10-07-2024
+B1345,Mahogany Teakwood,Candle,18.94,56,1060.64,3.3,Positive,Canada,15-03-2024
+B1346,Mahogany Teakwood,Candle,14.39,106,1525.34,4.4,Positive,India,07-03-2024
+B1347,Kitchen Lemon,Hand Soap,27.72,199,5516.28,4.5,Positive,Canada,28-07-2024
+B1348,Champagne Toast,Candle,12.36,123,1520.28,4.8,Neutral,India,19-03-2024
+B1349,Dark Kiss,Shower Gel,17.71,158,2798.18,4.8,Positive,US,28-04-2024
+B1350,Mahogany Teakwood,Candle,26.5,167,4425.5,4.4,Neutral,UK,24-06-2024
+B1351,Aromatherapy Eucalyptus,Lotion,24.15,90,2173.5,3.4,Positive,UK,07-05-2024
+B1352,Sweet Pea,Shower Gel,27.59,111,3062.49,3.9,Positive,India,10-02-2024
+B1353,Gingham Love,Mist,10.83,57,617.31,3.9,Positive,Canada,22-03-2024
+B1354,Champagne Toast,Candle,19.18,14,268.52,3.8,Neutral,India,30-03-2024
+B1355,Warm Vanilla Sugar,Lotion,25.24,44,1110.56,3.1,Positive,Canada,04-07-2024
+B1356,Fresh Balsam,Candle,12.15,28,340.2,3.6,Neutral,Australia,15-07-2024
+B1357,Mahogany Teakwood,Candle,8.79,91,799.89,3.6,Positive,Australia,28-05-2024
+B1358,Champagne Toast,Candle,11.11,181,2010.91,4.4,Positive,Canada,14-04-2024
+B1359,Sweet Pea,Shower Gel,12.42,56,695.52,3.1,Positive,Germany,26-03-2024
+B1360,A Thousand Wishes,Mist,17.86,175,3125.5,4.3,Positive,Canada,19-02-2024
+B1361,Warm Vanilla Sugar,Lotion,21.37,20,427.4,3.1,Positive,Germany,27-02-2024
+B1362,Mahogany Teakwood,Candle,25.47,31,789.57,3.4,Positive,US,14-02-2024
+B1363,A Thousand Wishes,Mist,12.4,179,2219.6,4.8,Positive,India,05-04-2024
+B1364,Champagne Toast,Candle,18.59,147,2732.73,4,Positive,US,03-01-2024
+B1365,Ocean,Shower Gel,18.27,77,1406.79,4.1,Positive,UK,20-03-2024
+B1366,Fresh Balsam,Candle,5.02,109,547.18,3.4,Negative,Australia,07-05-2024
+B1367,Dark Kiss,Shower Gel,11.11,90,999.9,4,Neutral,Germany,09-04-2024
+B1368,Crisp Morning Air,Hand Soap,28.64,112,3207.68,4.5,Neutral,India,31-01-2024
+B1369,Peach Bellini,Hand Soap,8.23,85,699.55,4.3,Positive,Germany,06-02-2024
+B1370,Kitchen Lemon,Hand Soap,9.48,59,559.32,3.4,Positive,US,17-01-2024
+B1371,Into the Night,Mist,20.29,146,2962.34,3.4,Negative,Germany,13-03-2024
+B1372,Peach Bellini,Hand Soap,27.93,155,4329.15,4.5,Neutral,US,29-01-2024
+B1373,Peach Bellini,Hand Soap,16.16,114,1842.24,4.2,Positive,UK,05-06-2024
+B1374,Sweet Pea,Shower Gel,18.17,176,3197.92,3.3,Positive,Germany,29-01-2024
+B1375,Ocean,Shower Gel,6.43,120,771.6,3.8,Positive,Germany,25-06-2024
+B1376,Fresh Balsam,Candle,5.05,11,55.55,3.7,Positive,India,11-02-2024
+B1377,Into the Night,Mist,18.6,58,1078.8,4.7,Positive,US,10-06-2024
+B1378,Into the Night,Mist,11.75,145,1703.75,4.8,Positive,UK,01-01-2024
+B1379,Sweet Pea,Shower Gel,9.05,116,1049.8,4.7,Positive,India,17-06-2024
+B1380,Ocean,Shower Gel,6.49,111,720.39,4.1,Positive,Australia,29-07-2024
+B1381,Kitchen Lemon,Hand Soap,26.44,55,1454.2,4.7,Negative,India,22-02-2024
+B1382,Dark Kiss,Shower Gel,21.83,62,1353.46,3.4,Positive,US,10-07-2024
+B1383,Dark Kiss,Shower Gel,20.87,171,3568.77,4.9,Negative,Australia,11-07-2024
+B1384,Champagne Toast,Candle,16.37,73,1195.01,3.9,Positive,US,17-07-2024
+B1385,Warm Vanilla Sugar,Lotion,9.75,179,1745.25,4,Positive,Germany,27-02-2024
+B1386,Ocean,Shower Gel,7.48,148,1107.04,4.7,Neutral,UK,27-02-2024
+B1387,Champagne Toast,Candle,23.43,196,4592.28,4.7,Positive,Germany,24-03-2024
+B1388,Japanese Cherry Blossom,Lotion,28.82,133,3833.06,4,Positive,Australia,12-01-2024
+B1389,A Thousand Wishes,Mist,9.18,172,1578.96,4.8,Positive,Germany,26-01-2024
+B1390,Into the Night,Mist,24.26,169,4099.94,3.3,Positive,US,14-04-2024
+B1391,Peach Bellini,Hand Soap,22.37,100,2237,4.9,Positive,Germany,16-05-2024
+B1392,Fresh Balsam,Candle,22.32,99,2209.68,4.3,Positive,US,21-06-2024
+B1393,Fresh Balsam,Candle,14.77,104,1536.08,4.4,Neutral,Australia,16-05-2024
+B1394,Fresh Balsam,Candle,26.75,157,4199.75,4.7,Positive,Canada,24-04-2024
+B1395,A Thousand Wishes,Mist,17.68,154,2722.72,4.8,Positive,Canada,24-03-2024
+B1396,Dark Kiss,Shower Gel,21.78,170,3702.6,4.3,Neutral,UK,07-07-2024
+B1397,Fresh Balsam,Candle,26.54,15,398.1,3.9,Positive,India,06-02-2024
+B1398,Crisp Morning Air,Hand Soap,19.76,87,1719.12,3.1,Positive,Australia,07-06-2024
+B1399,Kitchen Lemon,Hand Soap,19.06,151,2878.06,4.6,Positive,Germany,24-06-2024
+B1400,Crisp Morning Air,Hand Soap,18.98,185,3511.3,4.2,Positive,UK,13-04-2024
+B1401,Aromatherapy Eucalyptus,Lotion,9.84,165,1623.6,4.6,Neutral,Australia,29-01-2024
+B1402,Kitchen Lemon,Hand Soap,12.22,127,1551.94,4,Positive,Australia,22-02-2024
+B1403,Sweet Pea,Shower Gel,25.21,37,932.77,5,Positive,India,29-05-2024
+B1404,Japanese Cherry Blossom,Lotion,12.25,12,147,4.6,Positive,India,12-06-2024
+B1405,Kitchen Lemon,Hand Soap,13.17,53,698.01,3.2,Neutral,Canada,09-01-2024
+B1406,Kitchen Lemon,Hand Soap,29.03,20,580.6,3.8,Positive,US,03-06-2024
+B1407,Aromatherapy Eucalyptus,Lotion,9.48,146,1384.08,4.7,Positive,Canada,27-01-2024
+B1408,Aromatherapy Eucalyptus,Lotion,26.93,156,4201.08,4.1,Neutral,US,24-07-2024
+B1409,Gingham Love,Mist,12.63,148,1869.24,4.1,Positive,Australia,07-07-2024
+B1410,A Thousand Wishes,Mist,29.87,151,4510.37,3.7,Negative,US,01-03-2024
+B1411,Champagne Toast,Candle,24.71,13,321.23,3.1,Positive,UK,22-06-2024
+B1412,Peach Bellini,Hand Soap,15.08,161,2427.88,4.8,Neutral,Germany,01-04-2024
+B1413,Mahogany Teakwood,Candle,27.78,101,2805.78,3.8,Positive,India,07-03-2024
+B1414,Champagne Toast,Candle,29.47,180,5304.6,4.7,Negative,Australia,20-04-2024
+B1415,Ocean,Shower Gel,17.57,132,2319.24,4.8,Negative,US,16-06-2024
+B1416,Dark Kiss,Shower Gel,9.05,174,1574.7,4.6,Positive,Canada,10-06-2024
+B1417,Crisp Morning Air,Hand Soap,27.21,41,1115.61,3.1,Positive,UK,16-03-2024
+B1418,Into the Night,Mist,20.04,21,420.84,3.8,Positive,Australia,28-03-2024
+B1419,Dark Kiss,Shower Gel,25.46,105,2673.3,3.3,Negative,Canada,06-04-2024
+B1420,Mahogany Teakwood,Candle,13.09,98,1282.82,4.2,Positive,Canada,02-05-2024
+B1421,Gingham Love,Mist,24.2,57,1379.4,4.9,Positive,US,04-06-2024
+B1422,Into the Night,Mist,10.39,172,1787.08,4.3,Positive,US,22-07-2024
+B1423,Gingham Love,Mist,12.68,109,1382.12,3.6,Positive,UK,20-07-2024
+B1424,A Thousand Wishes,Mist,10.57,121,1278.97,3.7,Positive,Canada,29-07-2024
+B1425,Ocean,Shower Gel,12.81,135,1729.35,4.7,Negative,UK,14-03-2024
+B1426,Into the Night,Mist,7.54,189,1425.06,4.7,Neutral,US,15-01-2024
+B1427,Champagne Toast,Candle,8.19,57,466.83,4.9,Negative,Germany,18-01-2024
+B1428,Kitchen Lemon,Hand Soap,28.08,173,4857.84,3.3,Negative,Canada,06-05-2024
+B1429,Crisp Morning Air,Hand Soap,18.4,149,2741.6,4.5,Positive,UK,22-05-2024
+B1430,A Thousand Wishes,Mist,13.12,56,734.72,4.2,Positive,UK,23-06-2024
+B1431,Fresh Balsam,Candle,26.48,35,926.8,3.8,Negative,Australia,24-03-2024
+B1432,A Thousand Wishes,Mist,7.1,27,191.7,3.1,Negative,Germany,15-05-2024
+B1433,Japanese Cherry Blossom,Lotion,12.71,33,419.43,3.5,Positive,Australia,09-03-2024
+B1434,Champagne Toast,Candle,20.97,101,2117.97,4.5,Positive,Germany,15-05-2024
+B1435,Into the Night,Mist,25.83,128,3306.24,3.2,Positive,India,28-06-2024
+B1436,Kitchen Lemon,Hand Soap,11.5,164,1886,3.4,Positive,India,05-05-2024
+B1437,Ocean,Shower Gel,10.56,41,432.96,4.1,Positive,US,20-07-2024
+B1438,Mahogany Teakwood,Candle,25.64,143,3666.52,4.8,Negative,US,19-04-2024
+B1439,Dark Kiss,Shower Gel,17.65,54,953.1,4.6,Positive,Canada,31-03-2024
+B1440,Peach Bellini,Hand Soap,16.88,12,202.56,3.6,Positive,UK,17-02-2024
+B1441,Japanese Cherry Blossom,Lotion,9.54,123,1173.42,4.4,Positive,Canada,18-06-2024
+B1442,A Thousand Wishes,Mist,10.66,141,1503.06,3.1,Positive,UK,28-01-2024
+B1443,Peach Bellini,Hand Soap,16.96,84,1424.64,3.6,Positive,Germany,23-01-2024
+B1444,Crisp Morning Air,Hand Soap,23.56,51,1201.56,4.2,Positive,UK,17-01-2024
+B1445,Mahogany Teakwood,Candle,25.34,44,1114.96,4.2,Positive,Germany,06-04-2024
+B1446,Crisp Morning Air,Hand Soap,29.29,97,2841.13,3.1,Positive,US,29-05-2024
+B1447,Warm Vanilla Sugar,Lotion,6.21,162,1006.02,4.1,Positive,US,27-05-2024
+B1448,Ocean,Shower Gel,25.82,185,4776.7,4.4,Positive,US,29-06-2024
+B1449,Sweet Pea,Shower Gel,15.24,143,2179.32,3.6,Positive,UK,15-06-2024
+B1450,Crisp Morning Air,Hand Soap,23.4,141,3299.4,4.6,Positive,Germany,11-07-2024
+B1451,Sweet Pea,Shower Gel,16.45,104,1710.8,3.9,Positive,Australia,04-04-2024
+B1452,A Thousand Wishes,Mist,22.75,99,2252.25,4.5,Positive,Germany,12-05-2024
+B1453,Aromatherapy Eucalyptus,Lotion,6.28,46,288.88,3.1,Neutral,Germany,28-04-2024
+B1454,Sweet Pea,Shower Gel,21.51,179,3850.29,4.7,Neutral,Canada,28-07-2024
+B1455,A Thousand Wishes,Mist,18.51,173,3202.23,4.2,Neutral,Australia,21-01-2024
+B1456,Japanese Cherry Blossom,Lotion,23.77,145,3446.65,3.6,Negative,US,25-03-2024
+B1457,Into the Night,Mist,15.64,50,782,4,Positive,US,13-05-2024
+B1458,Warm Vanilla Sugar,Lotion,23.15,173,4004.95,3.1,Positive,Australia,28-03-2024
+B1459,Ocean,Shower Gel,24.38,157,3827.66,3.5,Negative,India,05-05-2024
+B1460,Japanese Cherry Blossom,Lotion,28.63,96,2748.48,4.2,Neutral,Germany,06-01-2024
+B1461,Sweet Pea,Shower Gel,27.92,194,5416.48,4.1,Neutral,Australia,27-01-2024
+B1462,Peach Bellini,Hand Soap,6.17,90,555.3,3.3,Neutral,India,18-04-2024
+B1463,Mahogany Teakwood,Candle,25.58,105,2685.9,3.2,Neutral,Germany,21-03-2024
+B1464,Sweet Pea,Shower Gel,23.77,194,4611.38,3.9,Neutral,Germany,15-07-2024
+B1465,Into the Night,Mist,8.16,111,905.76,3,Neutral,India,01-02-2024
+B1466,Fresh Balsam,Candle,7,73,511,4.9,Positive,Australia,26-05-2024
+B1467,Into the Night,Mist,21.16,90,1904.4,3.7,Positive,US,19-04-2024
+B1468,Ocean,Shower Gel,22.25,93,2069.25,4.7,Neutral,Germany,08-05-2024
+B1469,Warm Vanilla Sugar,Lotion,12.09,25,302.25,4.8,Positive,Australia,01-07-2024
+B1470,Champagne Toast,Candle,6.74,97,653.78,4.9,Neutral,Australia,15-05-2024
+B1471,Champagne Toast,Candle,23.94,45,1077.3,4.8,Positive,UK,25-06-2024
+B1472,Sweet Pea,Shower Gel,19.99,155,3098.45,3.5,Positive,India,23-07-2024
+B1473,Aromatherapy Eucalyptus,Lotion,5.18,95,492.1,4.1,Negative,Australia,11-07-2024
+B1474,Japanese Cherry Blossom,Lotion,20.82,84,1748.88,3.9,Positive,UK,15-06-2024
+B1475,Crisp Morning Air,Hand Soap,10.99,134,1472.66,4.1,Positive,US,21-07-2024
+B1476,Japanese Cherry Blossom,Lotion,12.25,110,1347.5,4.9,Positive,Canada,17-06-2024
+B1477,Ocean,Shower Gel,16.79,56,940.24,3.9,Neutral,India,19-05-2024
+B1478,Peach Bellini,Hand Soap,14.46,11,159.06,3.7,Positive,India,15-02-2024
+B1479,Japanese Cherry Blossom,Lotion,25.18,75,1888.5,3.1,Neutral,US,15-04-2024
+B1480,Warm Vanilla Sugar,Lotion,20.59,188,3870.92,3.9,Negative,Canada,11-06-2024
+B1481,A Thousand Wishes,Mist,26.8,172,4609.6,4.8,Positive,US,08-03-2024
+B1482,Into the Night,Mist,5.94,181,1075.14,4.1,Positive,Canada,05-05-2024
+B1483,Japanese Cherry Blossom,Lotion,8.57,117,1002.69,3.4,Positive,US,10-05-2024
+B1484,A Thousand Wishes,Mist,11.48,79,906.92,3.9,Positive,Canada,28-05-2024
+B1485,Dark Kiss,Shower Gel,24.86,15,372.9,4.2,Positive,Australia,12-01-2024
+B1486,Crisp Morning Air,Hand Soap,11.5,178,2047,4.7,Positive,US,26-06-2024
+B1487,Ocean,Shower Gel,9.33,147,1371.51,4.5,Positive,India,06-06-2024
+B1488,Crisp Morning Air,Hand Soap,26.78,99,2651.22,3.2,Neutral,UK,15-07-2024
+B1489,Sweet Pea,Shower Gel,27.32,44,1202.08,4.7,Positive,Canada,09-03-2024
+B1490,Aromatherapy Eucalyptus,Lotion,29.2,151,4409.2,4.9,Negative,US,20-07-2024
+B1491,Crisp Morning Air,Hand Soap,24.39,18,439.02,3.4,Negative,India,31-05-2024
+B1492,Ocean,Shower Gel,17.68,62,1096.16,4.1,Positive,UK,10-07-2024
+B1493,Ocean,Shower Gel,23.31,64,1491.84,3.8,Neutral,US,25-04-2024
+B1494,Into the Night,Mist,10.81,12,129.72,4.2,Positive,UK,29-01-2024
+B1495,Fresh Balsam,Candle,25.65,117,3001.05,4.9,Positive,Australia,02-02-2024
+B1496,Champagne Toast,Candle,11.61,52,603.72,4.9,Negative,Germany,18-01-2024
+B1497,Mahogany Teakwood,Candle,27.36,166,4541.76,3.1,Positive,Australia,25-04-2024
+B1498,Mahogany Teakwood,Candle,11.71,81,948.51,3.1,Positive,Australia,25-06-2024
+B1499,Sweet Pea,Shower Gel,11.8,154,1817.2,3.4,Positive,Canada,18-07-2024
+B1500,Sweet Pea,Shower Gel,6.88,169,1162.72,4,Positive,Germany,26-01-2024
